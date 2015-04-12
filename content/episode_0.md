@@ -1,6 +1,7 @@
 Title: Introductory Episode
 Date: 2015-03-30
 Category: Episodes
+Tags: Python, development, software, podcast
 
 <iframe id="audio_iframe" src="http://www.podbean.com/media/player/fnm29-54eb7d/initByJs/1/auto/1?skin=103" width="100%" height="100" frameborder="0" scrolling="no"></iframe>
 
