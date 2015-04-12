@@ -29,4 +29,4 @@ Tags: SaltStack, Python, Thomas Hatch, Configuration Management, Systems Automat
   * [Pelican](http://blog.getpelican.com/)
   * [Moving From Heroku to AWS With Salt Part 1](http://blog.renaissancedev.com/from-heroku-to-aws-with-saltstack-part-1.html)
   * [Moving From Heroku to AWS With Salt Part 2](http://blog.renaissancedev.com/from-heroku-to-aws-with-saltstack-part-1.html)
- * Closing Remarks 
+* Closing Remarks 
