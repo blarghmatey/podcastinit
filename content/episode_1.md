@@ -16,7 +16,7 @@ Tags: SaltStack, Python, Thomas Hatch, Configuration Management, Systems Automat
 ####Picks
   * Thomas Hatch
     - Flow Based Programming
-      + [IOFlo](http://ioflo.com/)
+        + [IOFlo](http://ioflo.com/)
     - [Imagine Dragons](http://en.wikipedia.org/wiki/Imagine_Dragons)
   * Chris Patti
     - [Stone Imperial Russian Stout](http://www.stonebrewing.com/irs/)
