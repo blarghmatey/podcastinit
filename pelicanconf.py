@@ -21,7 +21,9 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Renaissance Dev', 'http://blog.renaissancedev.com'),
-         ('Blind, Not Dumb', 'http://www.feoh.org'),)
+         ('Blind, Not Dumb', 'http://www.feoh.org'),
+         ('iTunes', 'https://itunes.apple.com/us/podcast/podcast.-init/id981834425'),
+         ('Stitcher', 'http://www.stitcher.com/s?fid=64838&refid=stpr'))
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/Podcast__init__'),)
