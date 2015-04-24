@@ -21,8 +21,9 @@ Tags: Learning, Python, Education
 -   Where does Python draw the inspiration for its object system from?
 -   In what way(s) does learning Python differ from learning other languages?
 -   What sorts of materials/mediums do you use for training people in Python?
-    -   [Python Tutor](http://pythontutor.com)
+    - [Python Tutor](http://pythontutor.com)
 -   Do you use your book (Practice make Python) as follow up material for your trainings?
+    - [Practice Makes Python](http://www.lerner.co.il/practice-makes-python) - Use the coupon code "pythoninit" at checkout to receive 20% of any package
 -   In your freelance work, what portion of your projects use Python?
     -   [Ruby is Oscar, Python is Felix](http://blog.lerner.co.il/ruby-and-python-and-felix-and-oscar/)
 -   Have you seen a change in the demand for Python skills in the time between when you first started using it and now?
