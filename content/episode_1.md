@@ -29,3 +29,5 @@ Tags: SaltStack, Python, Thomas Hatch, Configuration Management, Systems Automat
     - [Moving From Heroku to AWS With Salt Part 1](http://blog.renaissancedev.com/from-heroku-to-aws-with-saltstack-part-1.html)
     - [Moving From Heroku to AWS With Salt Part 2](http://blog.renaissancedev.com/from-heroku-to-aws-with-saltstack-part-1.html)
 ####Closing Remarks
+
+The intro and outro music is from Requiem for a Fish [The Freak Fandango Orchestra](http://freemusicarchive.org/music/The_Freak_Fandango_Orchestra/)  / [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)

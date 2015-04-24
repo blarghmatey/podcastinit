@@ -42,6 +42,11 @@ TWITTER_USERNAME = 'Podcast__init__'
 SITE_THUMBNAIL = '/images/podcast_init_logo.png'
 SITESUBTITLE = 'A podcast about Python and the people who make it great'
 RIGHT_SIDEBAR = """
+<div class="well">
 <a href="https://itunes.apple.com/us/podcast/podcast.-init/id981834425?mt=2&uo=6&at=&ct=" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.png) no-repeat;width:165px;height:40px;@media only screen{background-image:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg);}"></a>
+<hr/>
 <a href="http://www.stitcher.com/s?fid=64838&refid=stpr"><img src="http://cloudfront.assets.stitcher.com/promo.assets/stitcher-banner-120x90.jpg" width="120" height="90" alt="Listen to Stitcher"></a>
+<hr/>
+<p style="margin-top: 8px;"><a href="http://podcastinit.podbean.com/feed/"><img src="/images/feed-icon-28x28.png"/> Episodes</a></p>
+</div>
 """

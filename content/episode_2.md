@@ -51,3 +51,5 @@ Tags: Learning, Python, Education
     -    [Website](http://lerner.co.il)
     -    [blog](http://lerner.co.il/blog)
     -    [Twitter: @reuvenmlerner](https://twitter.com/reuvenmlerner)
+
+The intro and outro music is from Requiem for a Fish [The Freak Fandango Orchestra](http://freemusicarchive.org/music/The_Freak_Fandango_Orchestra/)  / [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
