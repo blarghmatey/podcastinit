@@ -34,6 +34,8 @@ DEFAULT_CATEGORY = 'Episodes'
 THEME = 'pelican-themes/plumage'
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+STATIC_PATHS = ['extra', 'images', 'pages']
+EXTRA_PATH_METADATA = {'extra/favicon.ico': {'path': 'favicon.ico'}}
 
 TWITTER_USERNAME = 'Podcast__init__'
 
