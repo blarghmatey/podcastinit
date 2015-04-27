@@ -26,7 +26,8 @@ LINKS = (('Renaissance Dev', 'http://blog.renaissancedev.com'),
          ('Stitcher', 'http://www.stitcher.com/s?fid=64838&refid=stpr'))
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/Podcast__init__'),)
+SOCIAL = (('Twitter', 'https://twitter.com/Podcast__init__'),
+          {'Email', 'hosts@podcastinit.com'})
 
 DEFAULT_PAGINATION = 10
 DEFAULT_CATEGORY = 'Episodes'
