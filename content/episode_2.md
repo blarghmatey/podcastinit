@@ -8,9 +8,9 @@ Tags: Learning, Python, Education
 <iframe id="audio_iframe" src="http://www.podbean.com/media/player/8gycv-558357?skin=103" width="100%" height="100" frameborder="0" scrolling="no"></iframe>
 
 ###Episode 2 Brief intro
--   Recording date/time
--   Hosts
--   Overview
+-   Recording date/time - Apr 21st 2015 20:00 UTC
+-   Hosts - Tobias Macey and Chris Patti
+-   Overview - Interview with Reuven Lerner about his experiences in providing Python trainings
 
 ###Reuven Lerner Interview
 -   Please introduce yourself

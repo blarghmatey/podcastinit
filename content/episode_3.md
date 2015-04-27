@@ -1,12 +1,12 @@
 Title: Episode 3 - Kivy Core Developers
-Date: 2015-04-21
+Date: 2015-04-22
 Category: Episodes
 Tags: Kivy, Mobile, Android, iOS, Open Source
 
 <iframe id="audio_iframe" src="http://www.podbean.com/media/player/tbyua-559767?skin=103" width="100%" height="100" frameborder="0" scrolling="no"></iframe>
 
 ###Brief Introduction
-*  Date of recording - Apr 21st 2015
+*  Date of recording - Apr 22nd 2015 00:00 UTC
 *  Hosts - Tobias Macey and Chris Patti
 *  Overview - Interview with members of the Kivy core development team
 
