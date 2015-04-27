@@ -15,7 +15,7 @@ Tags: Learning, Python, Education
 ###Reuven Lerner Interview
 -   Please introduce yourself
 -   How did you get introduced to Python?
--   How did you break into the field of providing Python trainings? 
+-   How did you break into the field of providing Python trainings?
 -   What are the most common languages that your students are coming from?
 -   What are some of the biggest obstacles that people encounter when learning Python?
 -   Where does Python draw the inspiration for its object system from?
@@ -47,7 +47,7 @@ Tags: Learning, Python, Education
     -   [Zoho Apps](https://www.zoho.com/)
 
 ###Closing remarks
--   Reuven Contact: 
+-   Reuven Contact:
     -    [Website](http://lerner.co.il)
     -    [blog](http://lerner.co.il/blog)
     -    [Twitter: @reuvenmlerner](https://twitter.com/reuvenmlerner)
