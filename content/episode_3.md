@@ -16,7 +16,7 @@ Tags: Kivy, Mobile, Android, iOS, Open Source
 *  How did the Kivy project get started?
 *  What made you choose Python as the basis for Kivy?
 *  What were some influences on and inspirations for Kivy's  design?
-   * [Raymond Hettinger - Beyond Pep 8](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+    * [Raymond Hettinger - Beyond Pep 8](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 *  One of the amazing things about Kivy is that it's comparatively simple to learn and get started with. Did this ease of use occur by design or accident?
 *  What were some of the biggest challenges to designing or implementing Kivy?
 *  If you could start the project over, what would you do differently?
