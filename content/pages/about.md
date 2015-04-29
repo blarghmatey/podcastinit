@@ -10,3 +10,6 @@ a fine purveyor of online backup solutions.
 * I'm a proud Freemason and enjoy spending time with my brothers of [Amicable Lodge](http://www.amicablelodge.com)
 * I love to read, especially escapist flights of urban fantasy or science fiction with the occasional bit of non fiction thrown in to keep me honest.
 * I also love playing games of all kinds, but especially board games with friends and the occasional video game, especially indie games.
+
+##Contacting Me
+[My about.me Page - Twitter, Email, Facebook, LinkedIn, Yada, Yada..](https://about.me/feoh)
