@@ -11,6 +11,7 @@ I have been using Python since some time in 2010 when I started learning it for 
 When I'm not working, I like to spend time with my family, read, hike and watch movies. My favorite topics to read about are technology (surprise!), science fiction (Heinlein is pretty great) and fantasy. You can follow me on Twitter [@TobiasMacey](https://twitter.com/TobiasMacey), read my ramblings as [The Renaissance Dev](http://renaissancedev.com), hire me for consulting at [Boundless Notions](http://boundlessnotions.com) or see my work history on [LinkedIn](http://linkedin.com/in/tmacey).
 
 ##Chris Patti
+<img src="/images/chris.jpg" style="height: 100px; float: left; margin: 15px;">
 ###Work
 How cool is it that we get to play with computers and get PAID for it? I've been messing with technology since I stood in front of my Mattel Intellivision in 1979 and wished that
 *I* could control the objects moving around the screen (Yes, I'm that old :).
