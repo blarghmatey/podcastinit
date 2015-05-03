@@ -50,6 +50,8 @@ RIGHT_SIDEBAR = """
 <hr/>
 <a href="http://www.stitcher.com/s?fid=64838&refid=stpr"><img src="http://cloudfront.assets.stitcher.com/promo.assets/stitcher-banner-120x90.jpg" width="120" height="90" alt="Listen to Stitcher"></a>
 <hr/>
+<iframe src="http://tunein.com/embed/follow/p726240/" style="width:64px;height:22px;" scrolling="no" frameborder="no"></iframe>
+<hr/>
 <p style="margin-top: 8px;"><a href="http://podcastinit.podbean.com/feed/"><img src="/images/feed-icon.png"/> Episodes</a></p>
 </div>
 <div class="well">
