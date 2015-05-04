@@ -42,7 +42,7 @@ Tags: Continuum Analytics, PyData, NumFocus, Data Science, Scientific Python, Da
 *  For someone just starting out in the data science and data analytics space, what advice would you give?
     *  Download Anaconda, learn as much Python as you can
     *  Google search "Data Analysis in Python"
-    *  iPython Notebooks in data analysis
+    *  IPython Notebooks in data analysis
     *  R community
     *  Meetups
     *  Online classes
