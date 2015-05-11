@@ -21,13 +21,13 @@
 		    *  People 'adjacent' to the male members - wives, mothers, etc.
 		*  "What comes next" from weekend workshops - became Project Night
 	*  How much of your time ends up being dedicated to the Python community? 
-	    *  Also maitainer of coverage.py
+	    *  Also maitainer of [coverage.py](http://nedbatchelder.com/code/coverage/)
 	    *  Active on Freenode IRC \#python
 	    *  20 hours a week
 	*  What are your goals for the Boston Python community? 
 	    *  Continue to grow
 	    *  More events, different events?
-		*  Chicago UG very active - 1 on 1 mentoring program
+		*  [chipy](http://www.chipy.org/) - Chicago UG very active - 1 on 1 mentoring program
 		*  Smaller events - 5 person events - study groups
 		    *  All levels not just beginners
 		    *  Computational Biologists - study genomics
@@ -41,15 +41,15 @@
 	*  Speakers aren't superheroes, they're just people. 'Everyone has at least one talk in them'.
 	* Value in having a blog, twitter stream - people talk back to you and  by correcting your mistakes everyone benefits.
 	*  How do you keep people engaged outside of the monthly meetings? 
-	    *  Meetup.com - requires moderation
-	    *  python.org mailing lists - unmoderated - low traffic
+	    *  [Meetup.com](http://www.meetup.com/) - requires moderation
+	    *  [python.org mailing lists](https://mail.python.org/mailman/listinfo) - unmoderated - low traffic
 	    *  Need to do more in that regard
 	*  What do you like the most/least about the Python community? 
 	    *  Communities can improve - IRC has gotten better
 		*  Turmoil on PSF mailing list over election for directors
-		*  How do you strike a balance between sponsors and the rest of the community? Do you have policies around sponsored presentations / talks? 
+	*  How do you strike a balance between sponsors and the rest of the community? Do you have policies around sponsored presentations / talks? 
 		*  Tend not to do sponsored talks
-		*  Microsoft NERD - great benefit to Boston Python
+		*  [Microsoft NERD](https://microsoftnewengland.com/) - great benefit to Boston Python
 		*  Provides monthly space for the group
 		*  1 minute slots for sponsors
 		*  No sales pitches
@@ -76,20 +76,20 @@
 *  Tobias
     *  [Scribd](https://www.scribd.com/)
     *  [Konch](https://github.com/sloria/konch)
-        *  [DupeGuru](http://www.hardcoded.net/dupeguru/)
-    *  Chris
-        *  [The River Cafe](http://therivercafe.com/)
-        *  [Pythonista](http://omz-software.com/pythonista/)
-        *  [Rototo - IOS Game](https://robots.thoughtbot.com/rototo-space-survival)
+    *  [DupeGuru](http://www.hardcoded.net/dupeguru/)
+*  Chris
+    *  [The River Cafe](http://therivercafe.com/)
+    *  [Pythonista](http://omz-software.com/pythonista/)
+    *  [Rototo - IOS Game](https://robots.thoughtbot.com/rototo-space-survival)
     *  [Stone Brewing Arrogant Bastard](http://www.arrogantbastard.com/)
-    *  Ned
-        *  [Tox](https://pypi.python.org/pypi/tox)
-        *  [Pythonz](https://github.com/saghul/pythonz)
-        *  [Spell Tower](http://www.spelltower.com/)
-        *  [Richard Feynman's Cornell Lectures](http://io*com/watch-a-series-of-seven-brilliant-lectures-by-richard-f-5894600)
+*  Ned
+    *  [Tox](https://pypi.python.org/pypi/tox)
+    *  [Pythonz](https://github.com/saghul/pythonz)
+    *  [Spell Tower](http://www.spelltower.com/)
+    *  [Richard Feynman's Cornell Lectures](http://io*com/watch-a-series-of-seven-brilliant-lectures-by-richard-f-5894600)
 
 *  Keep in Touch
     *  Twitter: @nedbat
     *  IRC: nedbat
-    *  nedbatchelder.com
-    *  bostonpython.com
+    *  [nedbatchelder.com](http://nedbatchelder.com/)
+    *  [bostonpython.com](http://www.meetup.com/bostonpython/)
