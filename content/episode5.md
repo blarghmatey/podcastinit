@@ -1,3 +1,8 @@
+Title: Episode 5 - Ned Batchelder
+Date: 2015-05-04
+Category: Episodes
+Tags: Community, Meetup, Python, Learning
+
 <iframe id="audio_iframe" src="http://www.podbean.com/media/player/abjqx-55f221?skin=103" width="100%" height="100" frameborder="0" scrolling="no"></iframe>
 
 ###Brief Introduction
