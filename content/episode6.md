@@ -5,13 +5,13 @@ Tags: prompt-toolkit, ptpython, command line, readline, open source
 
 <iframe id="audio_iframe" src="http://www.podbean.com/media/player/5xs8w-561e18?from=wp&skin=103&postId=5643800&download=0&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
-#Brief Introduction
+###Brief Introduction
 - Date of recording - May 17th, 2015
 - Hosts - Tobias Macey and Chris Patti
 - Follow us on iTunes, Stitcher or TuneIn
 - Give us feedback! (iTunes, Twitter, email, Disqus comments)
 - Overview - Interview with Jonathan Slenders
-#Interview with Jonathan Slenders
+###Interview with Jonathan Slenders
 - Introductions
 - How were you first introduced to Python? -Chris
 - What inspired you to create the python-prompt-toolkit?
@@ -36,7 +36,7 @@ Tags: prompt-toolkit, ptpython, command line, readline, open source
 - What are some of the most interesting uses that you have seen of the prompt-toolkit?
     - PyVim - really challenged the design
     - pgcli
-#Picks
+###Picks
 - Tobias
     - [vimsert](https://github.com/gabesullice/vimsert)
     - [Johnny Cash Project](http://www.thejohnnycashproject.com/)
@@ -50,6 +50,6 @@ Tags: prompt-toolkit, ptpython, command line, readline, open source
     - Belgian Beer
       - Rochefort
     - Western European Folk Dancing
-#Keep in touch
+###Keep in touch
 - Twitter - [@jonathan\_s](https://twitter.com/jonathan\_s)
 - GitHub - [jonathanslenders](https://github.com/jonathanslenders)
