@@ -53,3 +53,5 @@ Tags: prompt-toolkit, ptpython, command line, readline, open source
 ###Keep in touch
 - Twitter - [@jonathan\_s](https://twitter.com/jonathan\_s)
 - GitHub - [jonathanslenders](https://github.com/jonathanslenders)
+
+The intro and outro music is from Requiem for a Fish [The Freak Fandango Orchestra](http://freemusicarchive.org/music/The_Freak_Fandango_Orchestra/)  / [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
