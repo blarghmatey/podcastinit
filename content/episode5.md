@@ -101,3 +101,5 @@ Tags: Community, Meetup, Python, Learning
 *  IRC: nedbat
 *  [nedbatchelder.com](http://nedbatchelder.com/)
 *  [bostonpython.com](http://www.meetup.com/bostonpython/)
+
+The intro and outro music is from Requiem for a Fish [The Freak Fandango Orchestra](http://freemusicarchive.org/music/The_Freak_Fandango_Orchestra/)  / [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)

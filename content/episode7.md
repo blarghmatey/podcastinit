@@ -46,3 +46,5 @@ We apologize for the audio quality at the beginning of this episode. We had an i
 
 ###Keep In Touch
 *  [@jacobian](https://twitter.com/jacobian)
+
+The intro and outro music is from Requiem for a Fish [The Freak Fandango Orchestra](http://freemusicarchive.org/music/The_Freak_Fandango_Orchestra/)  / [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
