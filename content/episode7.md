@@ -5,8 +5,6 @@ Tags: Diversity, Hiring, Culture
 
 <iframe id="audio_iframe" src="http://www.podbean.com/media/player/sygtd-56440b?from=wp&skin=103&postId=5653515&download=0&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
-We apologize for the audio quality at the beginning of this episode. We had an issue with the first part of the recording, but we were able to salvage the content, if not the quality. As always, we appreciate all of the attention that we have been getting and we are continually striving to produce the best content at the best quality that we can manage.
-
 ###Brief Introduction
 *  Date of recording - May 18th, 2015
 *  Hosts - Tobias Macey and Chris Patti
