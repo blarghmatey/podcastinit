@@ -55,7 +55,9 @@ RIGHT_SIDEBAR = """
 <p style="margin-top: 8px;"><a href="http://podcastinit.podbean.com/feed/"><img src="/images/feed-icon.png"/> Episodes</a></p>
 </div>
 <div class="well">
-<h4>Donations Welcome</h4>
+<h4>Support The Show</h4>
+<hr>
+<strong>Donate</strong><br/><br/>
 <script data-gratipay-username="Podcast__init__" src="//grtp.co/v1.js"></script>&nbsp&nbsp
 <script id='fbsufec'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//api.flattr.com/button/view/?uid=podcastinit&url='+encodeURIComponent(document.URL);f.title='Flattr';f.height=62;f.width=55;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fbsufec');</script>
 <a href="https://www.patreon.com/podcastinit"><img src="/images/patreon_logo.png" style="vertical-align: inherit; padding: 5px;"/></a>
@@ -66,5 +68,11 @@ RIGHT_SIDEBAR = """
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" style="vertical-align: inherit; padding: 22px 5px;" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+<hr>
+<strong>Or use these referral links</strong><br/>
+<ul>
+<li><a href="http://www.amazon.com/?tag=podcastinit-20">Amazon.com</a></li>
+<li><a href="https://www.digitalocean.com/?refcode=7f4b4767f85b">Digital Ocean</a></li>
+</ul>
 </div>
 """

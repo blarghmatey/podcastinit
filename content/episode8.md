@@ -1,4 +1,5 @@
 Title: Episode 8 - Mark Baggett on Python's Role in Information Security
+Date: 2015-05-28
 Category: Episodes
 Tags: InfoSec, Penetration Testing, Security,
 
