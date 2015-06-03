@@ -3,6 +3,8 @@ Date: 2015-05-28
 Category: Episodes
 Tags: InfoSec, Penetration Testing, Security,
 
+<iframe id="audio_iframe" src="http://www.podbean.com/media/player/txvbu-567221?from=wp&skin=103&postId=5665313&download=0&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+
 ### Brief Introduction
 *  Date of recording - May 28th, 2015
 *  Hosts - Tobias Macey and Chris Patti
