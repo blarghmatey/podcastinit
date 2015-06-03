@@ -3,7 +3,6 @@ Category: Episodes
 Tags: InfoSec, Penetration Testing, Security,
 
 ### Brief Introduction
-
 *  Date of recording - May 28th, 2015
 *  Hosts - Tobias Macey and Chris Patti
 *  Overview - Interview with Mark Bagett
@@ -12,7 +11,6 @@ Tags: InfoSec, Penetration Testing, Security,
 *  You can donate (if you want)!
 
 ### Interview with Mark Bagett
-
 *  Introductions
 *  How were you first introduced to Python? - Chris
     *  Started using it for automating tasks while working as a sysadmin
@@ -23,15 +21,13 @@ Tags: InfoSec, Penetration Testing, Security,
         *  Flame virus - 5MB payload - incredibly advanced
             *  Lua interpreter bundled along with the scripts
         *  Vale framework - Python framework that takes payloads out of penetration testing executables
-*  What is it about Python that makes it useful for penetration testing and other information security tasks? 
+*  What is it about Python that makes it useful for penetration testing and other information security tasks?
     *  Same thing that makes it useful for anything else
     *  mpacket from core security
 *  What are some of the more useful Python penetration testing tools?
     *  OFFENSE
         *  [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)
-        *  secure web
         *  [scapy](http://www.secdev.org/projects/scapy/)
-        *  deeppacket?
         *  [Volatility](https://code.google.com/p/volatility/)
     *  DEFENSE
         *  [Counter dictionary from collections](https://docs.python.org/2/library/collections.html#collections.Counter)
@@ -57,12 +53,13 @@ Tags: InfoSec, Penetration Testing, Security,
         *  Can pull together all packets inside of stream
         *  Time spefic source communicates with specific destination
         *  Bro - intrusion detection suite
-            *  Built into Security Onion - Doug Berks
+            * Built into Security Onion - Doug Berks
+            * FLOSS Weekly episode 296 with [Bro developers](http://twit.tv/show/floss-weekly/296)
 *  What are some activities that you do on a regular basis for which you would turn to another language or toolchain, rather than using Python?
     *  Powershell - The Python of windows
         *  Whitelisted and ubiquitous
     *  Password cracking - compiled language like C or assembly
-* For anyone who is interested in getting involved in the security industry, and penetration testing in particular, what resources or tools would you recommend? 
+* For anyone who is interested in getting involved in the security industry, and penetration testing in particular, what resources or tools would you recommend?
     *  Developers make the best InfoSec professionals
         *  Lots of jobs and opportunities
     *  Developer -\> Systems Administration -\> Information Security
@@ -71,12 +68,11 @@ Tags: InfoSec, Penetration Testing, Security,
     *  Get involved in the industry - Meetups, etc.
     *  SANS institute course, Python for Penetration Testers, SEC573 by  Mark Baggett - sans.org
     *  Lots of free online resources
-    *  [Violent Python](http://shop.oreilly.com/product/978159749957*do) 
+    *  [Violent Python](http://shop.oreilly.com/product/978159749957*do)
     *  [PicoCTF](https://picoctf.com/)
     *  [Counter Hack Challenges](https://www.counterhackchallenges.com/)
 
 ### Picks
-
 *  Tobias
     *  [Authy](https://www.authy.com/)
     *  [OpenWRT](https://openwrt.org/)
@@ -97,7 +93,7 @@ Tags: InfoSec, Penetration Testing, Security,
     *  [BSides security conference](http://www.securitybsides.com/w/page/12194156/FrontPage)
 
 ### Keep in Touch
-*  [Twitter: @markbaggett](https://twitter.com/markbaggett)
+*  Twitter: [@markbaggett](https://twitter.com/markbaggett)
 *  [In Depth Defense](http://www.indepthdefense.com/)
 
 The intro and outro music is from Requiem for a Fish [The Freak Fandango Orchestra](http://freemusicarchive.org/music/The_Freak_Fandango_Orchestra/)  / [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
