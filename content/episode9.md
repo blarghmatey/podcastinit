@@ -1,4 +1,4 @@
-Title: Episode 8 - David Baumgold on Flask-Dance, Webhook DB and Open EdX
+Title: Episode 9 - David Baumgold on Flask-Dance, Webhook DB and Open EdX
 Category: Episodes
 Date: 2015-06-02
 Tags: Open Source, Education
