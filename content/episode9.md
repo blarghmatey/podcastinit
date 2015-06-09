@@ -32,7 +32,7 @@ Tags: Open Source, Education
   - [Medium](https://medium.com/)
   - [Modern Gnu Emacs](http://www.gnu.org/software/emacs/)
 - David
-  - [Homebrewhttps://open.edx.org/ for OSX](http://brew.sh/)
+  - [Homebrew for OSX](http://brew.sh/)
   - [Homebrew Cask](http://caskroom.io/)
   - [Arrow](http://crsmithdev.com/arrow/)
   - [Moment.js](http://momentjs.com/)
