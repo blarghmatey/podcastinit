@@ -1,3 +1,4 @@
 Markdown==2.6.1
 ghp-import==0.4.1
 pelican==3.5.0
+beautifulsoup4==4.3.2
