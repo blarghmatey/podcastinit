@@ -33,6 +33,8 @@ DEFAULT_PAGINATION = 10
 DEFAULT_CATEGORY = 'Episodes'
 
 THEME = 'pelican-themes/plumage'
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['share_post']
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 STATIC_PATHS = ['extra', 'images']
@@ -55,7 +57,7 @@ RIGHT_SIDEBAR = """
 <p style="margin-top: 8px;"><a href="http://podcastinit.podbean.com/feed/"><img src="/images/feed-icon.png"/> Episodes</a></p>
 </div>
 <div class="well">
-<h4>Support The Show</h4>
+<h4>Support The Show!</h4>
 <hr>
 <strong>Donate</strong><br/><br/>
 <script data-gratipay-username="Podcast__init__" src="//grtp.co/v1.js"></script>&nbsp&nbsp
@@ -69,10 +71,16 @@ RIGHT_SIDEBAR = """
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 <hr>
-<strong>Or use these referral links</strong><br/>
+<strong>Use Our Referral Links</strong><br/>
 <ul>
 <li><a href="http://www.amazon.com/?tag=podcastinit-20">Amazon.com</a></li>
 <li><a href="https://www.digitalocean.com/?refcode=7f4b4767f85b">Digital Ocean</a></li>
+</ul>
+<hr>
+<strong>Get Some Help!</strong><br/>
+<ul>
+<li><a href="https://hackhands.com/renaissancedev/">Schedule a 1-to-1 Pairing Session</a></li>
+<li><a href="http://www.boundlessnotions.com?ref=podcastinit">Get Help On A Project</a></li>
 </ul>
 </div>
 """
