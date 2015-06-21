@@ -94,7 +94,7 @@ Tags: Community, Meetup, Python, Learning
     *  [Tox](https://pypi.python.org/pypi/tox)
     *  [Pythonz](https://github.com/saghul/pythonz)
     *  [Spell Tower](http://www.spelltower.com/)
-    *  [Richard Feynman's Cornell Lectures](http://io*com/watch-a-series-of-seven-brilliant-lectures-by-richard-f-5894600)
+    *  [Richard Feynman's Cornell Lectures](http://io.com/watch-a-series-of-seven-brilliant-lectures-by-richard-f-5894600)
 
 ###Keep in Touch
 *  Twitter: [@nedbat](https://twitter.com/nedbat) and [@bostonpython](https://twitter.com/bostonpython)

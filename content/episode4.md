@@ -53,7 +53,7 @@ Tags: Continuum Analytics, PyData, NumFocus, Data Science, Scientific Python, Da
     *  [Apple 27" Retina iMac 5K](https://www.apple.com/imac-with-retina/)
 *  Travis Oliphant
     *  [Data Carpentry](http://datacarpentry.org/)
-        *  Tracy Teel
+        *  Tracy Teal ([@tracykteal](https://twitter.com/tracykteal))
         *  Patterned on [Software Carpentry](https://software-carpentry.org/)
     *  [Brain Science Podcast - Ginger Campbell, MD](http://brainsciencepodcast.com/)
     *  [Money, Bank Credit and Economic Cycles](https://mises.org/library/money-bank-credit-and-economic-cycles)
