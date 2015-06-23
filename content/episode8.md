@@ -71,7 +71,7 @@ Tags: InfoSec, Penetration Testing, Security,
     *  Get involved in the industry - Meetups, etc.
     *  SANS institute course, Python for Penetration Testers, SEC573 by  Mark Baggett - sans.org
     *  Lots of free online resources
-    *  [Violent Python](http://shop.oreilly.com/product/978159749957*do)
+    *  [Violent Python](http://www.anrdoezrs.net/jf104cy63y5LTUQNOPRLNNOSMNVULNQPMTRRUTTMMM?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F9781597499576.do%3Fcmp%3Daf-na-books-videos-product_cj_9781597499644_%2525zp&cjsku=9781597499576)
     *  [PicoCTF](https://picoctf.com/)
     *  [Counter Hack Challenges](https://www.counterhackchallenges.com/)
 

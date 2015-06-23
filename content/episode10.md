@@ -68,7 +68,7 @@ Tags: IPython, Data Science, Science, Programming
     *  [CodeNewbies](http://www.codenewbies.com)
     *  [Tweetbot](http://tapbots.com/tweetbot/mac/)
 *  Brian Granger
-    *  [Data Science from Scratch - Joel Gruß](http://shop.oreilly.com/product/0636920033400.do)
+    *  [Data Science from Scratch - Joel Gruß](http://www.anrdoezrs.net/r365cy63y5LTUQNOPRLNNOSMNVULNQPMTRRUTTMMM?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920033400.do%3Fcmp%3Daf-strata-books-videos-product_cj_9781491904381_%2525zp&cjsku=9781491904381)
     *  [Elements of Graphing Data - William Cleveland](http://www.stat.purdue.edu/~wsc/elements.html)
 *  Fernando Perez
     *  [Republic Lost - Lawrence Lessig](http://lesterland.lessig.org/pdf/republic-lost.pdf)
@@ -77,6 +77,4 @@ Tags: IPython, Data Science, Science, Programming
 ### Keep in Touch
 *  Twitter [@projectjupyter](https://twitter.com/projectjupyter), [@ipythondev](https://twitter.com/ipythondev), [@ellisonbg](https://twitter.com/ellisonbg), [@fperez_org](https://twitter.com/fperez_org)
 
-The intro and outro music is from Requiem for a Fish [The Freak Fandango
-Orchestra](http://freemusicarchive.org/music/The\_Freak\_Fandango\_Orchestra/)
-/ [CC BY-SA](http://creativecommons.org/licenses/by-sa/*0/)
+The intro and outro music is from Requiem for a Fish [The Freak Fandango Orchestra](http://freemusicarchive.org/music/The\_Freak\_Fandango\_Orchestra/) / [CC BY-SA](http://creativecommons.org/licenses/by-sa/*0/)
