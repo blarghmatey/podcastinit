@@ -1,5 +1,5 @@
 Title: Episode 12 - Eric Schles on Fighting Human Trafficking With Python
-Date: 2015-06-10
+Date: 2015-06-10 23:30
 Category: Episodes
 Tags: Social Good, Data Science
 
