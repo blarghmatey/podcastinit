@@ -75,7 +75,7 @@ RIGHT_SIDEBAR = """
 <ul>
 <li><a href="http://www.amazon.com/?tag=podcastinit-20">Amazon.com</a></li>
 <li><a href="https://www.digitalocean.com/?refcode=7f4b4767f85b">Digital Ocean</a></li>
-<li><a href="http://www.kqzyfj.com/c9102ox52x4KSTPMNOQKMMNPRNLPKMPOOQNMLOQLLL">O'Reilly Media</a></li>
+<li><a href="http://www.dpbolvw.net/click-7841235-11246204-1433521035000">O'Reilly Media</a></li>
 </ul>
 <hr>
 <strong>Get Some Help!</strong><br/>
