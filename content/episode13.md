@@ -1,4 +1,6 @@
-Title: Jacob Kovac on KivEnt
+Title: Episode 13 - Jacob Kovac on KivEnt
+URL: jacob-kovac-kivent.html
+save_as: jacob-kovac-kivent.html
 Category: Episodes
 Date: 2015-06-17
 Tags: Game Development, Kivy
