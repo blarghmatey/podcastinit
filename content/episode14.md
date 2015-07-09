@@ -1,4 +1,5 @@
 Title: Episode 14 - Allen Downey on Teaching Computer Science with Python
+Date: 2015-06-22
 url: allen-downey-computer-science.html
 save_as: allen-downey-computer-science.html
 Author: Tobias Macey & Chris Patti
