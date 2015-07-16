@@ -1,11 +1,17 @@
 Title: Episode 15 - Damien George of Micro Python
+save_as: damien-george-micropython.html
+url: damien-george-micropython.html
 Date: 2015-06-29
 Category: Episodes
 Authors: [Tobias Macey, Chris Patti]
 Tags: Hardware, Embedded, IoT, Micro Python
-Status: draft
 
-###Brief Introduction
+### Summary
+We talked to Damien George about his work on the Micro Python interpreter and the PyBoard SOC (Systom On a Chip). The combination of the interpreter and SOC allows Python developers to get involved in hardware hacking, as well as letting electronics afficionados try their hand at development. Damien explained to us where this fits in with the expanding landscape of low cost embedded devices and why you should get one to start playing with it.
+
+<iframe id="audio_iframe" src="http://www.podbean.com/media/player/qvjxr-5767e0?from=wp&skin=103&postId=5728224&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+
+### Brief Introduction
 * Date of recording - June 29th, 2015
 * Hosts - Tobias Macey and Chris Patti
 * Follow us on iTunes, Stitcher or TuneIn
@@ -13,7 +19,7 @@ Status: draft
 * You can donate (if you want)!
 * Overview - Interview with Damien George from the Micro Python project
 
-###Interview with Damien George
+### Interview with Damien George
 * Introductions
    * Postdoc in Theoretical Physics
 * How did you get introduced to Python?
@@ -73,7 +79,7 @@ Status: draft
       * Code needs to be well written and with few bugs
       * See if it can be used for real-time systems
 
-###Picks
+### Picks
 * Tobias
    * [Machine Gun Preacher](http://www.imdb.com/title/tt1586752/) - Real life story of Sam Childers' work in Southern Sudan
    * [Pocket Book Android App](https://play.google.com/store/apps/details?id=com.obreey.reader&hl=en) - E-Book app with good UI/UX and solid feature set
@@ -87,8 +93,10 @@ Status: draft
 * Damien
    * [MOSH](http://mosh.mit.edu) - Mobile shell, resilient SSH that allows for resuming sessions across networks, computer sleeps, etc.
 
-###Keep in Touch
-* Twitter - @micropython
-* GitHub - micropython
+### Keep in Touch
+* Twitter
+  - [@micropython](https://twitter.com/micropython)
+  - [@damienpgeorge](https://twitter.com/damienpgeorge)
+* GitHub - [micropython](https://github.com/micropython)
 
 The intro and outro music is from Requiem for a Fish [The Freak Fandango Orchestra](http://freemusicarchive.org/music/The_Freak_Fandango_Orchestra/)  / [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
