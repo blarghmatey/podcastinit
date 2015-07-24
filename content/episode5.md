@@ -9,8 +9,8 @@ Tags: Community, Meetup, Python, Learning
 *  Date of recording - May 4th, 2015
 *  Hosts - Tobias Macey and Chris Patti
 *  Overview - Interview with Ned Batchelder
-*  Follow us on iTunes, Stitcher or TuneIn
-*  Give us feedback! (iTunes, Twitter, email, Disqus comments)
+*  Follow us on [iTunes](https://itunes.apple.com/us/podcast/podcast.-init/id981834425?mt=2&uo=6&at=&ct=), [Stitcher](http://www.stitcher.com/s?fid=64838&refid=stpr) or [TuneIn](http://tunein.com/radio/Podcast\_\_init\_\_-p726240/)
+*  Give us feedback on [iTunes]((https://itunes.apple.com/us/podcast/podcast.-init/id981834425?mt=2&uo=6&at=&ct=), [Twitter](https://twitter.com/Podcast\_\_init\_\_), [email](mailto:hosts@podcastinit.com) or [Disqus](http://podcastinit.com))
 *  You can donate (if you want)!
 
 ###Interview with Ned Batchelder
