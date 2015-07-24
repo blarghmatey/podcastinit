@@ -15,7 +15,7 @@ We talked to Damien George about his work on the Micro Python interpreter and th
 * Date of recording - June 29th, 2015
 * Hosts - Tobias Macey and Chris Patti
 * Follow us on iTunes, Stitcher or TuneIn
-* Give us feedback! (iTunes, Twitter, email, Disqus comments)
+* Give us feedback on [iTunes](https://itunes.apple.com/us/podcast/podcast.-init/id981834425?mt=2&uo=6&at=&ct=), [Twitter](https://twitter.com/Podcast__init__), [email](mailto:hosts@podcastinit.com) or [Disqus](http://podcastinit.com)
 * You can donate (if you want)!
 * Overview - Interview with Damien George from the Micro Python project
 

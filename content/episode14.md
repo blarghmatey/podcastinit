@@ -15,7 +15,7 @@ In this episode we talked to professor and author Allen Downey. We discussed his
 * Date of recording - June 22nd, 2015
 * Hosts - Tobias Macey and Chris Patti
 * Follow us on [iTunes](https://itunes.apple.com/us/podcast/podcast.-init/id981834425?mt=2&uo=6&at=&ct=), [Stitcher](http://www.stitcher.com/s?fid=64838&refid=stpr) or [TuneIn](http://tunein.com/radio/Podcast__init__-p726240/)
-* Give us feedback! ([iTunes](https://itunes.apple.com/us/podcast/podcast.-init/id981834425?mt=2&uo=6&at=&ct=), [Twitter](https://twitter.com/Podcast__init__), [email](mailto:hosts@podcastinit.com), Disqus comments)
+* Give us feedback on [iTunes](https://itunes.apple.com/us/podcast/podcast.-init/id981834425?mt=2&uo=6&at=&ct=), [Twitter](https://twitter.com/Podcast__init__), [email](mailto:hosts@podcastinit.com) or [Disqus](http://podcastinit.com)
 * You can [donate](http://podcastinit.com/our-plans-for-your-donations.html) (if you want)
 * Overview - Interview with Allen Downey, Prolific Author and Professor of Computer Science
 

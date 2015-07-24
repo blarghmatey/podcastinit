@@ -14,7 +14,7 @@ In this episode we talked to Jacob Kovac, creator of the KivEnt game engine and 
 *  Date of recording - June 17th, 2015
 *  Hosts - Tobias Macey and Chris Patti
 *  Follow us on [iTunes](https://itunes.apple.com/us/podcast/podcast.-init/id981834425?mt=2&uo=6&at=&ct=), [Stitcher](http://www.stitcher.com/s?fid=64838&refid=stpr) or [TuneIn](http://tunein.com/radio/Podcast\_\_init\_\_-p726240/)
-*  Give us feedback on [iTunes]((https://itunes.apple.com/us/podcast/podcast.-init/id981834425?mt=2&uo=6&at=&ct=), [Twitter](https://twitter.com/Podcast\_\_init\_\_), [email](mailto:hosts@podcastinit.com) or [Disqus](http://podcastinit.com))
+*  Give us feedback on [iTunes](https://itunes.apple.com/us/podcast/podcast.-init/id981834425?mt=2&uo=6&at=&ct=), [Twitter](https://twitter.com/Podcast\_\_init\_\_), [email](mailto:hosts@podcastinit.com) or [Disqus](http://podcastinit.com)
 *  We don't have any corporate sponsorship or advertisements in the show because we are making it for the community and we respect our listeners and value your time. If you would like to help support the show and keep it ad-free you can find out how by visiting our [website](http://podcastinit.com/our-plans-for-your-donations.html)
 *  Overview - Interview with Jacob Kovac about the KivEnt Game Engine, based off of Kivy
 
