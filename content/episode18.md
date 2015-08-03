@@ -8,9 +8,9 @@ save_as: liza-avramenko-checkio.html
 
 ### Brief Intro
 - Hello and welcome to Podcast.__init__, the podcast about Python and the people who make it great.
-- Subscribe on [iTunes](), [Stitcher](), [TuneIn]() or [RSS]()
-- Follow us on [Twitter]() or [Google+]()
-- Give us feedback! Leave a review on [iTunes](), [Tweet]() to us, send us an [email]() or leave us a message on [Google+]()
+* Follow us on [iTunes](https://itunes.apple.com/us/podcast/podcast.-init/id981834425?mt=2&uo=6&at=&ct=), [Stitcher](http://www.stitcher.com/s?fid=64838&refid=stpr) or [TuneIn](http://tunein.com/radio/Podcast\_\_init\_\_-p726240/)
+* Give us feedback on [iTunes](https://itunes.apple.com/us/podcast/podcast.-init/id981834425?mt=2&uo=6&at=&ct=), [Twitter](https://twitter.com/Podcast__init__), [email](mailto:hosts@podcastinit.com) or [Disqus](http://podcastinit.com)
+* We donate our time to you because we love Python and its community. If you would like to return the favor you can send us a [donation](\url{http://podcastinit.com/our-plans-for-your-donations.html)}. Everything that we don't spend on producing the show will be donated to the PSF to keep the community alive.
 - We are recording today on July 27th, 2015 and your hosts as usual are Tobias Macey and Chris Patti
 - Today we are interviewing Liza Avramenko about CheckIO
 
