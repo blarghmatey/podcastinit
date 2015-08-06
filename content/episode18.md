@@ -1,7 +1,6 @@
 Title: Episode 18 - Liza Avramenko Talks About CheckIO
 Date: 2015-07-27
 Category: Episodes
-Authors: [Tobias Macey, Chris Patti]
 Tags: Practice, Gamification, Community, Collaboration
 url: liza-avramenko-checkio.html
 save_as: liza-avramenko-checkio.html

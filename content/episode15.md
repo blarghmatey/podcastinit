@@ -3,7 +3,6 @@ save_as: damien-george-micropython.html
 url: damien-george-micropython.html
 Date: 2015-06-29
 Category: Episodes
-Authors: [Tobias Macey, Chris Patti]
 Tags: Hardware, Embedded, IoT, Micro Python
 
 ### Summary
