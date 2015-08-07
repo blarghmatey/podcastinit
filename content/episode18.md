@@ -92,3 +92,5 @@ In this episode we talked to Liza Avramenko, the CEO of CheckIO, about Empire of
 
 ### Keep In Touch
 - Twitter: [@avrliza](https://twitter.com/avrliza)
+
+The intro and outro music is from Requiem for a Fish [The Freak Fandango Orchestra](http://freemusicarchive.org/music/The_Freak_Fandango_Orchestra/)  / [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
