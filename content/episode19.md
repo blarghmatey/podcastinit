@@ -1,5 +1,5 @@
 Title: Episode 19 - Al Sweigart on Python For Non-Programmers
-Date: 2015-07-27
+Date: 2015-07-28
 Category: Episodes
 Tags: python, education, automation
 url: al-sweigart-non-programmers.html
