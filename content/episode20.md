@@ -95,7 +95,7 @@ In this episode we had the opportunity to discuss the world of static site gener
     - [Upriise](http://upriise.com)
     - [Ergodox](http://ergodox.org/)
     - [Jarvis Bamboo Sit/Stand Desk](http://www.ergodepot.com/Jarvis_Desk_Bamboo_p/jrv-b.htm)
-p    - [Talky.io](https://talky.io)
+    - [Talky.io](https://talky.io)
     - [Fish shell](http://fishshell.com/)
         - [Tacklebox](https://github.com/justinmayer/tacklebox)
     - [iTerm v3.0 beta](https://www.iterm2.com/)
