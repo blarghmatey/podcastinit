@@ -92,7 +92,7 @@ RIGHT_SIDEBAR = """
 <hr/>
 <iframe src="http://tunein.com/embed/follow/p726240/" style="width:64px;height:22px;" scrolling="no" frameborder="no"></iframe>
 <hr/>
-<p style="margin-top: 8px;"><a href="http://podcastinit.podbean.com/feed/"><img src="/images/feed-icon.png"/> Episodes</a></p>
+<p style="margin-top: 8px;"><a href="http://podcastinit.podbean.com/feed/"><img src="/images/feed-icon.png"/></a></p>
 </div>
 <div class="well">
 <h4>Support The Show!</h4>
@@ -124,12 +124,10 @@ CoinWidgetCom.go({
 });
 </script>
 <hr>
-<strong>Use Our Referral Links</strong><br/>
-<ul>
-<li><a href="http://www.amazon.com/?tag=podcastinit-20">Amazon.com</a></li>
-<li><a href="https://www.digitalocean.com/?refcode=7f4b4767f85b">Digital Ocean</a></li>
-<li><a href="http://www.dpbolvw.net/click-7841235-11246204-1433521035000">O'Reilly Media</a></li>
-</ul>
+<strong>Use Our Referral Links</strong><br/><br/>
+<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=podcastinit-20&o=1&p=40&l=ur1&category=home&banner=1X2AGSSAVB75EDSQR302&f=ifr&linkID=CH5GK3BSZB46LIRQ" width="120" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe><br/><br/>
+<a href="https://www.digitalocean.com/?refcode=7f4b4767f85b"><img src="https://www.digitalocean.com/assets/images/logos-badges/horizontal-black-71af2217.png"></img></a><br/><br/>
+<a href="http://www.oreilly.com/pub/cpc/258"><img src="http://www.oreilly.com/partner_file/ORM_logo_box75_hex.jpg" /></a><br/>
 <hr>
 <strong>Get Some Help!</strong><br/>
 <ul>
