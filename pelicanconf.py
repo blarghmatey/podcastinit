@@ -125,7 +125,24 @@ CoinWidgetCom.go({
 </script>
 <hr>
 <strong>Use Our Referral Links</strong><br/><br/>
-<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=podcastinit-20&o=1&p=40&l=ur1&category=home&banner=1X2AGSSAVB75EDSQR302&f=ifr&linkID=CH5GK3BSZB46LIRQ" width="120" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe><br/><br/>
+<div class="alignleft">
+<script type='text/javascript'>
+ amzn_assoc_ad_type = 'banner';
+ amzn_assoc_tracking_id = 'podcastinit-20';
+ amzn_assoc_marketplace = 'amazon';
+ amzn_assoc_region = 'US';
+ amzn_assoc_placement = 'assoc_banner_placement_default';
+ amzn_assoc_linkid = 'FJDEJT2D3JSEKLFR';
+ amzn_assoc_campaigns = 'home';
+ amzn_assoc_p = '40';
+ amzn_assoc_banner_type = 'category';
+ amzn_assoc_isresponsive = 'false';
+ amzn_assoc_banner_id = '1X2AGSSAVB75EDSQR302';
+ amzn_assoc_width = '120';
+ amzn_assoc_height = '60';
+</script>
+<script src='//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1'></script>
+</div><br/>
 <a href="https://www.digitalocean.com/?refcode=7f4b4767f85b"><img src="https://www.digitalocean.com/assets/images/logos-badges/horizontal-black-71af2217.png"></img></a><br/><br/>
 <a href="http://www.oreilly.com/pub/cpc/258"><img src="http://www.oreilly.com/partner_file/ORM_logo_box75_hex.jpg" /></a><br/>
 <hr>
