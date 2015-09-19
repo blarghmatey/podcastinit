@@ -61,13 +61,13 @@ We got the chance to talk to some of the core developers of Hylang, which is a L
 
 ### Keep In Touch
 - Paul
-    - [Twitter](https://twitter.comd/paultag)
+    - [Twitter](https://twitter.com/paultag)
     - paultag on IRC
     - [Website](http://pault.ag)
 - Tuukka
-    - [Twitter](https://twitter.com/tutuurto)
+    - [Twitter](https://twitter.com/tuuturto)
 - Morten
-    - [Twitter](https://twitter.com/moretnlinderud)
+    - [Twitter](https://twitter.com/mortenlinderud)
 ### Links
 - [Core features of Hylang](http://docs.hylang.org/en/latest/)
 - [Adderall - minicanron in hylang](https://github.com/algernon/adderall)
