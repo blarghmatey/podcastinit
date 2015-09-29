@@ -1,9 +1,14 @@
-Title: Episode 25 - Griatch on Evennia
+Title: Episode 24 - Griatch on Evennia
 Date: 2015-09-15
 Category: Episodes
 Tags: Games, MUDs
 url: griatch_evennia.html
 save_as: griatch_evennia.html
+
+### Summary
+Griatch is an incredibly talented digital artist, professional astronomer and the maintainer of the Evennia project for creating MUDs in Python. We got the opportunity to speak with him about what MUDs are, why they're interesting and how Evennia simplifies the process of creating and extending them. If you're interested in building your own virtual worlds, this episode is a great place to start.
+
+<iframe id="audio_iframe" src="http://www.podbean.com/media/player/7ftz6-5906dd?from=yiiadmin&skin=103&postId=5834461&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 ### Brief Introduction
 - Hello and welcome to Podcast.\_\_init\_\_, the podcast about Python and the people who make it great.
