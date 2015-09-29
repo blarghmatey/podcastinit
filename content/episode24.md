@@ -54,3 +54,5 @@ Griatch is an incredibly talented digital artist, professional astronomer and th
 
 ### Links
 - [roll20](https://roll20.net/)
+
+The intro and outro music is from Requiem for a Fish [The Freak Fandango Orchestra](http://freemusicarchive.org/music/The_Freak_Fandango_Orchestra/)  / [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)

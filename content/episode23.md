@@ -84,3 +84,5 @@ We got the chance to talk to some of the core developers of Hylang, which is a L
 - [Github trending repos with Hylang](https://github.com/trending?l=hy)
 - [Pineal](https://github.com/edne/pineal)
 - [hydiomatic - Algernon](https://github.com/hylang/hydiomatic)
+
+The intro and outro music is from Requiem for a Fish [The Freak Fandango Orchestra](http://freemusicarchive.org/music/The_Freak_Fandango_Orchestra/)  / [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)

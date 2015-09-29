@@ -91,3 +91,5 @@ We got the chance to talk to Jessica McKellar about her work in the Python commu
 - <https://www.youtube.com/watch?v=2p-FecWny_Q>
 - <https://www.youtube.com/watch?v=lH9KJBr_R1Q>
 - <https://www.youtube.com/watch?v=d1a4Jbjc-vU>
+
+The intro and outro music is from Requiem for a Fish [The Freak Fandango Orchestra](http://freemusicarchive.org/music/The_Freak_Fandango_Orchestra/)  / [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)

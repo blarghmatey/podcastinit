@@ -71,3 +71,5 @@ We got the opportunity to speak with Al Sweigart about his work on books like 'A
 ### Keep In Touch
 - [Twitter](@alsweigart)
 - [Email](mailto:al@sweigart.com)
+
+The intro and outro music is from Requiem for a Fish [The Freak Fandango Orchestra](http://freemusicarchive.org/music/The_Freak_Fandango_Orchestra/)  / [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)

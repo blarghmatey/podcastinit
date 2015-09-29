@@ -65,3 +65,5 @@ Bryan Van de Ven is the project maintainer for Bokeh, a plotting and visualizati
 - [data.gov](http://data.gov)
 - [ggplot](http://ggplot.yhathq.com/) / [ggvis](http://ggvis.rstudio.com/)
 - [mathematica](http://www.wolfram.com/mathematica/)
+
+The intro and outro music is from Requiem for a Fish [The Freak Fandango Orchestra](http://freemusicarchive.org/music/The_Freak_Fandango_Orchestra/)  / [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
