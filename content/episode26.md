@@ -21,7 +21,7 @@ Dag Brattli is an engineer with Microsoft and in his spare time he created the p
 - Today we are interviewing Dag Brattli about the RxPy project
 
 <div class="well">
-<img src="/images/hired-logo-dark-padding.png" alt="Hired Logo" style="float: left; width: 20%; margin-right: 20px;">
+<a href="https://hired.com/?utm_content=shownotes-4k&utm_medium=podcast&utm_source=podcastinit"><img src="/images/hired-logo-dark-padding.png" alt="Hired Logo" style="float: left; width: 20%; margin-right: 20px;"></a>
 <p>
 On Hired software engineers & designers can get 5+ interview requests in a week and each offer has salary and equity upfront. With full time and contract opportunities available, users can view the offers and accept or reject them before talking to any company. Work with over 2,500 companies from startups to large public companies hailing from 12 major tech hubs in North America and Europe.  Hired is totally free for users and If you get a job you’ll get a $2,000 “thank you” bonus. If you use our <a href="https://hired.com/?utm_content=shownotes-4k&utm_medium=podcast&utm_source=podcastinit">special link</a> to signup, then that bonus will double to $4,000 when you accept a job. If you’re not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus when they accept a job.
 </p>
@@ -42,16 +42,16 @@ On Hired software engineers & designers can get 5+ interview requests in a week 
 
 ### Picks
 - Tobias
-  - [icdiff](https://github.com/jeffkaufman/icdiff)
-  - [Timeline card game](http://amzn.to/1OpNF1B)
-  - [Griatch's Digital Art](http://griatch-art.deviantart.com/)
+    - [icdiff](https://github.com/jeffkaufman/icdiff)
+    - [Timeline card game](http://amzn.to/1OpNF1B)
+    - [Griatch's Digital Art](http://griatch-art.deviantart.com/)
 - Chris
-  - [elpy](https://github.com/jorgenschaefer/elpy)
-  - [sshuttle](https://github.com/apenwarr/sshuttle)
-  - [Chimay Grand Reserve](http://www.beeradvocate.com/beer/profile/215/2512/)
+    - [elpy](https://github.com/jorgenschaefer/elpy)
+    - [sshuttle](https://github.com/apenwarr/sshuttle)
+    - [Chimay Grand Reserve](http://www.beeradvocate.com/beer/profile/215/2512/)
 - Dag
-  - [ASTor](https://github.com/berkerpeksag/astor)
-  - [How To Bake Pi](http://amzn.to/1OM3XDl) - A book about the mathematics of mathematics
+    - [ASTor](https://github.com/berkerpeksag/astor)
+    - [How To Bake Pi](http://amzn.to/1OM3XDl) - A book about the mathematics of mathematics
 
 ### Keep In Touch
 - [GitHub](https://github.com/dbrattli)
