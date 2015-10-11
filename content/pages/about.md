@@ -6,7 +6,7 @@ Podcast.__init__ is a show about the Python programming language and the awesome
 #The Hosts
 ##Tobias Macey
 <img src="/images/tobias.png" style="height: 100px; float: left; margin: 15px;">
-I have been using Python since some time in 2010 when I started learning it for simple scripts to do data munging and systems tasks. Ever since then, I have used it as much as possible and I have been fortunate enough to get paid for it at most of my jobs. I primarily work as a backend and systems engineer using tools such as [Flask](http://flask.pocoo.org/) and [SaltStack](http://saltstack.com). I also enjoy learning about other languages so that I can bring those lessons back to my work in Python.
+I taught myself Python shortly after learning to program in college and have been using it everywhere I can since then. I have worked primarily in backend software development and systems engineering with forays into front-end JavaScript applications and Android development. My favorite tools for the job include [SaltStack](http://saltstack.com) for systems and infrastructure automation and [Flask](http://flask.pocoo.org) for flexible web application development. I also enjoy experimenting with other programming languages and learning about distributed systems.
 
 When I'm not working, I like to spend time with my family, read, hike and watch movies. My favorite topics to read about are technology (surprise!), science fiction (Heinlein is pretty great) and fantasy. You can follow me on Twitter [@TobiasMacey](https://twitter.com/TobiasMacey), read my ramblings as [The Renaissance Dev](http://renaissancedev.com), hire me for consulting at [Boundless Notions](http://boundlessnotions.com) or see my work history on [LinkedIn](http://linkedin.com/in/tmacey).
 
