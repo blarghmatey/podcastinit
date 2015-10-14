@@ -1,5 +1,5 @@
 Title: Episode 27 - Trent Nelson on Pyparallels
-Date: 2015-09-07
+Date: 2015-10-14
 Category: Episodes
 Tags: Implementations, Concurrency, Parallelism, The GIL
 url: trent-nelson-pyparallel.html
