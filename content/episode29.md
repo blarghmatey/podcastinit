@@ -21,6 +21,18 @@ Anthony Scopatz is the creator of the Python shell Xonsh in addition to his work
 - We are recording today on October 12th, 2015 and your hosts as usual are Tobias Macey and Chris Patti
 - Today we are interviewing Anthony Scopatz about Xonsh
 
+<div class="well">
+<a href="https://hired.com/?utm_content=shownotes-4k&utm_medium=podcast&utm_source=podcastinit"><img src="/images/hired-logo-dark-padding.png" alt="Hired Logo" style="float: left; width: 20%; margin-right: 20px;"></a>
+<p>
+On Hired software engineers & designers can get 5+ interview requests in a week and each offer has salary and equity upfront. With full time and contract opportunities available, users can view the offers and accept or reject them before talking to any company. Work with over 2,500 companies from startups to large public companies hailing from 12 major tech hubs in North America and Europe.  Hired is totally free for users and If you get a job you’ll get a $2,000 “thank you” bonus. If you use our <a href="https://hired.com/?utm_content=shownotes-4k&utm_medium=podcast&utm_source=podcastinit">special link</a> to signup, then that bonus will double to $4,000 when you accept a job. If you’re not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus when they accept a job.
+</p>
+</div>
+
+<div class="well">
+<a href="http://linode.com/podcastinit"><img src="/images/linode-banner-sponsor-large.png" alt="Linode Sponsor Banner"style="width: 100%;"></img></a><br/>
+<p>Use the promo code <strong>podcastinit10</strong> to get a $10 credit when you sign up!</p>
+</div>
+
 ### Interview with Anthony Scopatz
 - Introductions
 - How did you get introduced to Python?
