@@ -6,7 +6,7 @@ url: anthony-scopatz-xonsh.html
 save_as: anthony-scopatz-xonsh.html
 
 ### Summary
-Anthony Scopatz is the creator of the Python shell Xonsh in addition to his work as a professor of nuclear physics. In this episode we talked to him about why he created Xonsh, how it works, and what his goals are for the project. It is definitely worth trying out Xonsh as it greatly simplifies the day-to-day use of your terminal environment by adding easily accessible python interoperability.
+Anthony Scopatz is the creator of the Python shell Xonsh in addition to his work as a professor of nuclear physics. In this episode we talked to him about why he created [Xonsh](http://xonsh.org/index.html), how it works, and what his goals are for the project. It is definitely worth trying out Xonsh as it greatly simplifies the day-to-day use of your terminal environment by adding easily accessible python interoperability.
 
 <iframe id="audio_iframe" src="http://www.podbean.com/media/player/rzthc-59df45?from=yiiadmin&skin=103&postId=5889861&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
