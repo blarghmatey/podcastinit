@@ -2,7 +2,13 @@ Title: Episode 32 - Erik Tollerud on AstroPy
 Date: 2015-11-02
 Category: Episodes
 Tags: Astronomy, Science
+url: erik-tollerud-astropy.html
+save_as: erik-tollerud-astropy.html
 
+### Summary
+Erik Tollerud is an astronomer with a background in software engineering. He leverages these backgrounds to help build and maintain the AstroPy framework and its associated modules. AstroPy is a set of Python libraries that provide useful mechanisms for astronomers and astrophysicists to perform analyses on the data that they receive from observational equipment such as the mountain observatory that Erik was preparing to visit when we talked to him about his work. If you like Python and space then you should definitely give this episode a listen!
+
+<iframe id="audio_iframe" src="http://www.podbean.com/media/player/dgxvy-5a5bc7?from=yiiadmin&skin=103&postId=5921735&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 ### Brief Introduction
 - Hello and welcome to Podcast.\_\_init\_\_, the podcast about Python and the people who make it great.
@@ -15,24 +21,36 @@ Tags: Astronomy, Science
 - We are recording today on November 2nd, 2015 and your hosts as usual are Tobias Macey and Chris Patti
 - Today we are interviewing Erik Tollerud about AstroPy
 
+<div class="well">
+<a href="https://hired.com/?utm_content=shownotes-4k&utm_medium=podcast&utm_source=podcastinit"><img src="/images/hired-logo-dark-padding.png" alt="Hired Logo" style="float: left; width: 20%; margin-right: 20px;"></a>
+<p>
+On Hired software engineers & designers can get 5+ interview requests in a week and each offer has salary and equity upfront. With full time and contract opportunities available, users can view the offers and accept or reject them before talking to any company. Work with over 2,500 companies from startups to large public companies hailing from 12 major tech hubs in North America and Europe.  Hired is totally free for users and If you get a job you’ll get a $2,000 “thank you” bonus. If you use our <a href="https://hired.com/?utm_content=shownotes-4k&utm_medium=podcast&utm_source=podcastinit">special link</a> to signup, then that bonus will double to $4,000 when you accept a job. If you’re not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus when they accept a job.
+</p>
+</div>
+
+<div class="well">
+<a href="http://linode.com/podcastinit"><img src="/images/linode-banner-sponsor-large.png" alt="Linode Sponsor Banner"style="width: 100%;"></img></a><br/>
+<p>Use the promo code <strong>podcastinit10</strong> to get a $10 credit when you sign up!</p>
+</div>
+
 ### Interview with Erik Tollerud
 - Introductions
-- How did you get introduced to Python? - Chris
-- What was the inspiration to create AstroPy and what kinds of astronomical research can it be used for? - Tobias
-- Can you tell us what AstroPy's modeling functions are and give us examples of where they might be used? - Chris
-- Are there any considerations that you need to be aware of when writing software libraries for practitioners of the hard sciences that would be different if the target audience were software engineers? - Tobias
-- What are some of the most interesting applications that AstroPy has been used for? - Chris
-- Are there open data sets that are available for people outside of academia to do analysis of astronomical data using AstroPy? - Tobias
-    - Have there been any useful discoveries made in this way? - Tobias
-- Could you please tell us about AstroPy's Virtual Observatory capabilities? - Chris
-- What are some interesting use cases for AstroPy's Cosmological calculations? - Chris
-- Are there other libraries available that provide similar capabilities, perhaps in other languages? What makes AstroPy unique among them? - Tobias
-- Can AstroPy consume data directly from telescopes and other observational apparatus? - Chris
-- The amount of data generated from observing astronomical phenomena must be immense. What are some of the tools used to manage that data and how does AstroPy interface with them? - Tobias
-- How might AstroPy be used to prove or disprove the cold dark matter hypothesis? - Chris
-- What are some of the architectural choices that have been made to allow for the AstroPy library to serve as the core for a number of other add-ons? - Tobias
-    - Does AstroPy provide a common data format to allow for easy interoperability between the various addons? - Tobias
-- I noticed that AstroPy adheres to the PSF code of conduct, as well as having adopted an enhancement proposal process modelled after PEPs. Can you explain why that is important and what kind of an impact it has had on the community around AstroPy? - Tobias
+- How did you get introduced to Python?
+- What was the inspiration to create AstroPy and what kinds of astronomical research can it be used for?
+- Can you tell us what AstroPy's modeling functions are and give us examples of where they might be used?
+- Are there any considerations that you need to be aware of when writing software libraries for practitioners of the hard sciences that would be different if the target audience were software engineers?
+- What are some of the most interesting applications that AstroPy has been used for?
+- Are there open data sets that are available for people outside of academia to do analysis of astronomical data using AstroPy?
+    - Have there been any useful discoveries made in this way?
+- Could you please tell us about AstroPy's Virtual Observatory capabilities?
+- What are some interesting use cases for AstroPy's Cosmological calculations?
+- Are there other libraries available that provide similar capabilities, perhaps in other languages? What makes AstroPy unique among them?
+- Can AstroPy consume data directly from telescopes and other observational apparatus?
+- The amount of data generated from observing astronomical phenomena must be immense. What are some of the tools used to manage that data and how does AstroPy interface with them?
+- How might AstroPy be used to prove or disprove the cold dark matter hypothesis?
+- What are some of the architectural choices that have been made to allow for the AstroPy library to serve as the core for a number of other add-ons?
+    - Does AstroPy provide a common data format to allow for easy interoperability between the various addons?
+- I noticed that AstroPy adheres to the PSF code of conduct, as well as having adopted an enhancement proposal process modelled after PEPs. Can you explain why that is important and what kind of an impact it has had on the community around AstroPy?
 
 ### Picks
 - Tobias
