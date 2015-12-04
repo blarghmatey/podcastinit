@@ -1,5 +1,5 @@
 Title: Episode 34 - Stuart Mumford on SunPy
-Date: 2015-17-02
+Date: 2015-11-17
 Category: Episodes
 Tags: Solar Astronomy, Science, Physics
 url: stuart-mumford-sunpy.html
