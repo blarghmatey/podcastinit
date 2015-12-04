@@ -2,6 +2,8 @@ Title: Episode 34 - Stuart Mumford on SunPy
 Date: 2015-17-02
 Category: Episodes
 Tags: Solar Astronomy, Science, Physics
+url: stuart-mumford-sunpy.html
+save_as: stuart-mumford-sunpy.html
 
 ### Summary
 What is Solar Physics? How does it differ from AstroPhysics? What does this all have to do with Python? In this episode we answer all of those questions when we interview Stuart Mumford about his work on SunPy. So put on your sunglasses and learn about how to use Python to decipher the secrets of our closest star.
