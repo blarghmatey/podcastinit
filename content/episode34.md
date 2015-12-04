@@ -3,6 +3,10 @@ Date: 2015-17-02
 Category: Episodes
 Tags: Solar Astronomy, Science, Physics
 
+### Summary
+What is Solar Physics? How does it differ from AstroPhysics? What does this all have to do with Python? In this episode we answer all of those questions when we interview Stuart Mumford about his work on SunPy. So put on your sunglasses and learn about how to use Python to decipher the secrets of our closest star.
+
+<iframe id="audio_iframe" src="http://www.podbean.com/media/player/x9cik-5ab4d9?from=yiiadmin&skin=103&postId=5944537&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 ### Brief Introduction
 - Hello and welcome to Podcast.\_\_init\_\_, the podcast about Python and the people who make it great.
@@ -14,6 +18,18 @@ Tags: Solar Astronomy, Science, Physics
 - Linode is sponsoring us this week. Check them out at [linode.com/podcastinit](http://linode.com/podcastinit) and get a $10 credit to try out their fast and reliable Linux virtual servers for your next project
 - We are recording today on November 17th, 2015 and your hosts as usual are Tobias Macey and Chris Patti
 - Today we are interviewing Stuart Mumford about SunPy
+
+<div class="well">
+<a href="https://hired.com/?utm_content=shownotes-4k&utm_medium=podcast&utm_source=podcastinit"><img src="/images/hired-logo-dark-padding.png" alt="Hired Logo" style="float: left; width: 20%; margin-right: 20px;"></a>
+<p>
+On Hired software engineers & designers can get 5+ interview requests in a week and each offer has salary and equity upfront. With full time and contract opportunities available, users can view the offers and accept or reject them before talking to any company. Work with over 2,500 companies from startups to large public companies hailing from 12 major tech hubs in North America and Europe.  Hired is totally free for users and If you get a job you’ll get a $2,000 “thank you” bonus. If you use our <a href="https://hired.com/?utm_content=shownotes-4k&utm_medium=podcast&utm_source=podcastinit">special link</a> to signup, then that bonus will double to $4,000 when you accept a job. If you’re not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus when they accept a job.
+</p>
+</div>
+
+<div class="well">
+<a href="http://linode.com/podcastinit"><img src="/images/linode-banner-sponsor-large.png" alt="Linode Sponsor Banner"style="width: 100%;"></img></a><br/>
+<p>Use the promo code <strong>podcastinit10</strong> to get a $10 credit when you sign up!</p>
+</div>
 
 ### Interview with Stuart Mumford
 - Introductions
@@ -41,7 +57,7 @@ Tags: Solar Astronomy, Science, Physics
     - [Live ISS HD video stream 24/7](http://www.ustream.tv/channel/iss-hdev-payload)
     - [yt](http://yt-project.org)
     - [Calf Studio - Live Audio Processing](http://calf-studio-gear.org/)
-   
+
 ### Keep In Touch
 - [Twitter](@stuartmumford)(@sunpyproject)
 - [SunPy.org](http://sunpy.org)
