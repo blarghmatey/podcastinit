@@ -1,4 +1,4 @@
-Title: Episode 32 - Maneesha Sane on Software & Data Carpentry
+Title: Episode 33 - Maneesha Sane on Software & Data Carpentry
 Date: 2015-11-10
 Category: Episodes
 Tags: Science, Data, Teaching, Best Practices
@@ -16,7 +16,7 @@ The Software and Data Carpentry organizations have a mission of making it easier
 - Follow us on [Twitter](https://twitter.com/Podcast__init__) or [Google+](https://plus.google.com/+Podcastinit-the-python-podcast)
 - Give us feedback! Leave a review on [iTunes](https://itunes.apple.com/us/podcast/podcast.-init/id981834425?mt=2&uo=6&at=&ct=), [Tweet](https://twitter.com/Podcast__init__) to us, send us an [email](mailto:hosts@podcastinit.com) or leave us a message on [Google+](https://plus.google.com/+Podcastinit-the-python-podcast)
 - I would like to thank everyone who has donated to the show. Your contributions help us make the show sustainable. For details on how to support the show you can visit our site at [pythonpodcast.com](http://pythonpodcast.com)
-- This episode is sponsored by Zato - Microservices, ESB, SOA, REST, API, and Cloud Integrations in Python. Visit zato.io to learn more about how to integrate smarter in the modern world.
+- This episode is sponsored by Zato - Microservices, ESB, SOA, REST, API, and Cloud Integrations in Python. Visit [zato.io](https://zato.io/docs?podcast-init) to learn more about how to integrate smarter in the modern world.
 - I would also like to thank Hired, a job marketplace for developers, for sponsoring this episode of Podcast.\_\_init\_\_. Use the link [hired.com/podcastinit](http://hired.com/podcastinit) to double your signing bonus.
 - Linode is sponsoring us this week. Check them out at [linode.com/podcastinit](http://linode.com/podcastinit) and get a $10 credit to try out their fast and reliable Linux virtual servers for your next project
 - We are recording today on November 10th, 2015 and your hosts as usual are Tobias Macey and Chris Patti
