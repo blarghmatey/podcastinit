@@ -36,10 +36,10 @@ We got the chance to talk to Jessica McKellar about her work in the Python commu
     - Great deal of empathy for newcomers due to personal history
     - Knowing how to program changes how you think about the world
 - Has the situation for newcomers running Windows who wish to try Python gotten any better since your keynote at Kiwi PyCon?
-    - Some vaguaries of setup have gotten better with recent versions (e.g. setting path variables)
+    - Some vagaries of setup have gotten better with recent versions (e.g. setting path variables)
     - Ruby has in-browser tutorial to get people hooked
 - Do "Batteries Included' distributions like Anaconda help or is it the same problem of visibility you discussed in your talk?
-    - Informatino flow / what are you default options question
+    - Information flow / what are you default options question
     - We could be much more opinionated about this
 - You have presented a number of times about the future of Python and how we can all help to make sure that story is a happy one. How has the material for that talk changed over the past few years?
     - As a largely volunteer community, how to maximize the impact of the bandwidth that we have
