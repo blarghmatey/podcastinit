@@ -61,9 +61,11 @@ On Hired software engineers & designers can get 5+ interview requests in a week 
     - [Calf Studio - Live Audio Processing](http://calf-studio-gear.org/)
 
 ### Keep In Touch
-- [Twitter](@stuartmumford)(@sunpyproject)
+- Twitter
+  - [@stuartmumford](https://twitter.com/stuartmumford)
+  - [@sunpyproject](https://twitter.com/sunpyproject)
 - [SunPy.org](http://sunpy.org)
 - [GitHub](https://github.com/sunpy)
-- [IRC](#sunpy)
+- #sunpy on IRC
 
 The intro and outro music is from Requiem for a Fish [The Freak Fandango Orchestra](http://freemusicarchive.org/music/The_Freak_Fandango_Orchestra/)  / [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
