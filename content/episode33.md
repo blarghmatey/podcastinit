@@ -18,7 +18,6 @@ The Software and Data Carpentry organizations have a mission of making it easier
 - I would like to thank everyone who has donated to the show. Your contributions help us make the show sustainable. For details on how to support the show you can visit our site at [pythonpodcast.com](http://pythonpodcast.com)
 - This episode is sponsored by Zato - Microservices, ESB, SOA, REST, API, and Cloud Integrations in Python. Visit [zato.io](https://zato.io/docs?podcast-init) to learn more about how to integrate smarter in the modern world.
 - I would also like to thank Hired, a job marketplace for developers, for sponsoring this episode of Podcast.\_\_init\_\_. Use the link [hired.com/podcastinit](http://hired.com/podcastinit) to double your signing bonus.
-- Linode is sponsoring us this week. Check them out at [linode.com/podcastinit](http://linode.com/podcastinit) and get a $10 credit to try out their fast and reliable Linux virtual servers for your next project
 - We are recording today on November 10th, 2015 and your hosts as usual are Tobias Macey and Chris Patti
 - Today we are interviewing Maneesha Sane about Software Carpentry and Data Carpentry
 
