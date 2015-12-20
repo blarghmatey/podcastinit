@@ -2,6 +2,13 @@ Title: Episode 36 - Eric Holscher on Documentation
 Date: 2015-11-30
 Category: Episodes
 Tags: Documentation, Communication, Community, Best Practices
+url: eric-holscher-documentation.html
+save_as: eric-holscher-documentation.html
+
+### Summary
+The first place we all go for learning about new libraries is the documentation. Lack of effective documentation can limit the adoption of an otherwise excellent project. In this episode we spoke with Eric Holscher, co-creator of [Read The Docs](https://readthedocs.org/), about why documentation is important and how we can all work to make it better.
+
+<iframe id="audio_iframe" src="http://www.podbean.com/media/player/jhrv9-5b1b6c?from=yiiadmin&skin=103&postId=5970796&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 ### Brief Introduction
 - Hello and welcome to Podcast.\_\_init\_\_, the podcast about Python and the people who make it great.
@@ -13,6 +20,20 @@ Tags: Documentation, Communication, Community, Best Practices
 - Linode is sponsoring us this week. Check them out at [linode.com/podcastinit](http://linode.com/podcastinit) and get a $10 credit to try out their fast and reliable Linux virtual servers for your next project
 - We are recording today on November 30th, 2015 and your hosts as usual are Tobias Macey and Chris Patti
 - Today we are interviewing Eric Holscher about Documentation
+
+
+<div class="well">
+<a href="http://linode.com/podcastinit"><img src="/images/linode-banner-sponsor-large.png" alt="Linode Sponsor Banner"style="width: 100%;"></img></a><br/>
+<p>Use the promo code <strong>podcastinit10</strong> to get a $10 credit when you sign up!</p>
+</div>
+
+<div class="well">
+<a href="https://hired.com/?utm_content=shownotes-4k&utm_medium=podcast&utm_source=podcastinit"><img src="/images/hired-logo-dark-padding.png" alt="Hired Logo" style="float: left; width: 20%; margin-right: 20px;"></a>
+<p>
+On Hired software engineers & designers can get 5+ interview requests in a week and each offer has salary and equity upfront. With full time and contract opportunities available, users can view the offers and accept or reject them before talking to any company. Work with over 2,500 companies from startups to large public companies hailing from 12 major tech hubs in North America and Europe.  Hired is totally free for users and If you get a job you’ll get a $2,000 “thank you” bonus. If you use our <a href="https://hired.com/?utm_content=shownotes-4k&utm_medium=podcast&utm_source=podcastinit">special link</a> to signup, then that bonus will double to $4,000 when you accept a job. If you’re not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus when they accept a job.
+</p>
+</div>
+
 
 ### Interview with Eric Holscher
 - Introductions
@@ -31,12 +52,12 @@ Tags: Documentation, Communication, Community, Best Practices
 
 ### Picks
 - Tobias
-    - [The Man from Uncle](http://www.imdb.com/title/tt1638355/)
+    - [The Man from Uncle](http://amzn.to/1S27VZp)
     - [Minute Physics](https://www.youtube.com/user/minutephysics)
 - Chris
     - [SigAvdi](http://devblog.avdi.org/newsletter/)
-    - [Black Flags: The Rise of ISIS](http://smile.amazon.com/gp/product/B00RRT346E/ref=smi_www_rco2_go_smi_g2243581662?_encoding=UTF8&btkr=1&ie=UTF8)
-    - [Veritassium](https://www.youtube.com/user/1veritasium)    
+    - [Black Flags: The Rise of ISIS](http://amzn.to/1S27PRg)
+    - [Veritassium](https://www.youtube.com/user/1veritasium)
 - Eric
     - [Khao Soi](https://en.wikipedia.org/wiki/Khao_soi)
     - [Climate Change](http://worrydream.com/ClimateChange/)
