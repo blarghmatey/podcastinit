@@ -44,7 +44,7 @@ Tags: Kivy, Mobile, Android, iOS, Open Source
 
 ###Picks
 *  Tobias
-    *  [Zeal](Doc browser - http://zealdocs.org/)
+    *  [Zeal - Doc Browser](http://zealdocs.org/)
     *  [CommitStrip](http://www.commitstrip.com/en/)
 *  Chris
     *  [Jack's Abbey Smoke & Dagger](http://www.beeradvocate.com/beer/profile/26520/71501/)
