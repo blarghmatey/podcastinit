@@ -3,7 +3,7 @@ Date: 2015-12-07
 Category: Episodes
 Tags: language, PEP, community
 url: the-pep-talk.html
-save_as: the-pep-talk
+save_as: the-pep-talk.html
 
 ### Summary
 The Python language is built by and for its community. In order to add a new feature, change the specification, or create a new policy the first step is to submit a proposal for consideration. Those proposals are called PEPs, or Python Enhancement Proposals. In this episode we had the great pleasure of speaking with three of the people who act as stewards for this process to learn more about how it got started, how it works, and what impacts it has had.
