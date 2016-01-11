@@ -55,7 +55,7 @@ On Hired software engineers & designers can get 5+ interview requests in a week 
     - [The Willpower Instinct](http://amzn.to/1TpRsN5)
     - [The Way of the Seal](http://amzn.to/1JJvXRX)
     - [Sapiens: A Brief History of Humankind](http://amzn.to/1TpRwfE)
-    - [Python High Performance Computing](http://www.anrdoezrs.net/5f108tenkem19A634571334823BA1366A4B442B222?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F9781783288458.do%3Fcmp%3Daf-na-books-videos-product_cj_9781783288465_%2525zp&cjsku=9781783288458)
+    - [High Performance Python](http://www.kqzyfj.com/pb115p-85-7NVWTOVXTNPPQUOPXWNPSSWQXQQOXOOO?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920028963.do%3Fcmp%3Daf-prog-books-videos-product_cj_9781449361587_%2525zp&cjsku=9781449361587)
 
 ### Keep In Touch
 - [Twitter](https://twitter.com/dyjh)
