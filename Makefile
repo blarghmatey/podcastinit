@@ -12,7 +12,7 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=direct.boundlessnotions.com
+SSH_HOST=45.79.190.237
 SSH_PORT=22
 SSH_USER=root
 SSH_TARGET_DIR=/var/www/podcastinit

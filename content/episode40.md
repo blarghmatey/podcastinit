@@ -8,7 +8,7 @@ save_as: ben-darnell-tornado.html
 ### Summary
 If you are trying to build a web application in Python that can scale to a high number of concurrent users, or you want to leverage the power of websockets, then Tornado just may be the library you need. In this episode we interview Ben Darnell about his work as the maintainer of the Tornado project and how it can be used in a number of ways to power your next high traffic site.
 
-<iframe id="audio_iframe" src="http://www.podbean.com/media/player/qhzty-5bcb60?from=yiiadmin&skin=103&postId=6015840&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<iframe id="audio_iframe" src="http://www.podbean.com/media/player/2jv5u-5bcb77?from=yiiadmin&skin=103&postId=6015863&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 ### Brief Introduction
 - Hello and welcome to Podcast.\_\_init\_\_, the podcast about Python and the people who make it great.
@@ -17,10 +17,23 @@ If you are trying to build a web application in Python that can scale to a high 
 - Give us feedback! Leave a review on [iTunes](https://itunes.apple.com/us/podcast/podcast.-init/id981834425?mt=2&uo=6&at=&ct=), [Tweet](https://twitter.com/Podcast__init__) to us, send us an [email](mailto:hosts@podcastinit.com) or leave us a message on [Google+](https://plus.google.com/+Podcastinit-the-python-podcast)
 - We are also running a listener survey to get feedback about the show. You can find it at [bit.do/podcastinit-survey](http://bit.do/podcastinit-survey).
 - I would like to thank everyone who has donated to the show. Your contributions help us make the show sustainable. For details on how to support the show you can visit our site at [pythonpodcast.com](http://pythonpodcast.com)
+- Linode is sponsoring us this week. Check them out at [linode.com/podcastinit](http://linode.com/podcastinit) and get a $20 credit to try out their fast and reliable Linux virtual servers for your next project
 - I would also like to thank Hired, a job marketplace for developers and designers, for sponsoring this episode of Podcast.\_\_init\_\_. Use the link [hired.com/podcastinit](http://hired.com/podcastinit) to double your signing bonus to $4,000.
 - Your hosts as usual are Tobias Macey and Chris Patti
 - We recently launched a new Discourse forum for the show which you can find at [discourse.pythonpodcast.com](https://discourse.pythonpodcast.com). Join us to discuss the show, the episodes, and ideas for future interviews.
 - Today we are interviewing Ben Darnell about his work on Tornado
+
+<div class="well">
+<a href="http://linode.com/podcastinit"><img src="/images/linode-banner-sponsor-large.png" alt="Linode Sponsor Banner"style="width: 100%;"></img></a><br/>
+<p>Use the promo code <strong>podcastinit20</strong> to get a $20 credit when you sign up!</p>
+</div>
+
+<div class="well">
+<a href="https://hired.com/?utm_content=shownotes-4k&utm_medium=podcast&utm_source=podcastinit"><img src="/images/hired-logo-dark-padding.png" alt="Hired Logo" style="float: left; width: 20%; margin-right: 20px;"></a>
+<p>
+On Hired software engineers & designers can get 5+ interview requests in a week and each offer has salary and equity upfront. With full time and contract opportunities available, users can view the offers and accept or reject them before talking to any company. Work with over 2,500 companies from startups to large public companies hailing from 12 major tech hubs in North America and Europe.  Hired is totally free for users and If you get a job you’ll get a $2,000 “thank you” bonus. If you use our <a href="https://hired.com/?utm_content=shownotes-4k&utm_medium=podcast&utm_source=podcastinit">special link</a> to signup, then that bonus will double to $4,000 when you accept a job. If you’re not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus when they accept a job.
+</p>
+</div>
 
 ### Interview with Ben Darnell
 - Introductions
