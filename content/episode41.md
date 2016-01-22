@@ -2,17 +2,37 @@ Title: Episode 41 - Maciej Fijalkowski on RPython
 Date: 2015-12-17
 Category: Episodes
 Tags: JIT, Interpreters
+url: maciej-fijalkowski-rpython.html
+save_as: maciej-fijalkowski-rpython.html
+
+### Summary
+RPython is a subset of Python that is used for writing high performance interpreters for dynamic languages. The most well-known product of this tooling is the PyPy interpreter. In this episode we had the pleasure of speaking with Maciej Fijalkowski about what RPython is, what it isn't, what kinds of projects it has been used for, and what makes it so interesting.
+
+<iframe id="audio_iframe" src="http://www.podbean.com/media/player/rkszj-5bf87f?from=yiiadmin&skin=103&postId=6027391&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 ### Brief Introduction
 - Hello and welcome to Podcast.\_\_init\_\_, the podcast about Python and the people who make it great.
 - Subscribe on [iTunes](https://itunes.apple.com/us/podcast/podcast.-init/id981834425?mt=2&uo=6&at=&ct=), [Stitcher](http://www.stitcher.com/s?fid=64838&refid=stpr), [TuneIn](http://tunein.com/embed/follow/p726240/#) or [RSS](http://podcastinit.podbean.com/feed/)
 - Follow us on [Twitter](https://twitter.com/Podcast__init__) or [Google+](https://plus.google.com/+Podcastinit-the-python-podcast)
 - Give us feedback! Leave a review on [iTunes](https://itunes.apple.com/us/podcast/podcast.-init/id981834425?mt=2&uo=6&at=&ct=), [Tweet](https://twitter.com/Podcast__init__) to us, send us an [email](mailto:hosts@podcastinit.com) or leave us a message on [Google+](https://plus.google.com/+Podcastinit-the-python-podcast)
+- Join our community! Visit [discourse.pythonpodcast.com](https://discourse.pythonpodcast.com) for your opportunity to find out about upcoming guests, suggest questions, and propose show ideas.
 - I would like to thank everyone who has donated to the show. Your contributions help us make the show sustainable. For details on how to support the show you can visit our site at [pythonpodcast.com](http://pythonpodcast.com)
 - Linode is sponsoring us this week. Check them out at [linode.com/podcastinit](http://linode.com/podcastinit) and get a $20 credit to try out their fast and reliable Linux virtual servers for your next project
 - I would also like to thank Hired, a job marketplace for developers, for sponsoring this episode of Podcast.\_\_init\_\_. Use the link [hired.com/podcastinit](http://hired.com/podcastinit) to double your signing bonus.
 - We are recording today on December 17th, 2015 and your hosts as usual are Tobias Macey and Chris Patti
 - Today we are interviewing Maciej Fijalkowski on RPython
+
+<div class="well">
+<a href="http://linode.com/podcastinit"><img src="/images/linode-banner-sponsor-large.png" alt="Linode Sponsor Banner"style="width: 100%;"></img></a><br/>
+<p>Use the promo code <strong>podcastinit20</strong> to get a $20 credit when you sign up!</p>
+</div>
+
+<div class="well">
+<a href="https://hired.com/?utm_content=shownotes-4k&utm_medium=podcast&utm_source=podcastinit"><img src="/images/hired-logo-dark-padding.png" alt="Hired Logo" style="float: left; width: 20%; margin-right: 20px;"></a>
+<p>
+On Hired software engineers & designers can get 5+ interview requests in a week and each offer has salary and equity upfront. With full time and contract opportunities available, users can view the offers and accept or reject them before talking to any company. Work with over 2,500 companies from startups to large public companies hailing from 12 major tech hubs in North America and Europe.  Hired is totally free for users and If you get a job you’ll get a $2,000 “thank you” bonus. If you use our <a href="https://hired.com/?utm_content=shownotes-4k&utm_medium=podcast&utm_source=podcastinit">special link</a> to signup, then that bonus will double to $4,000 when you accept a job. If you’re not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus when they accept a job.
+</p>
+</div>
 
 ### Interview with Maciej Fijalkowski
 - Introductions
@@ -40,12 +60,12 @@ Tags: JIT, Interpreters
     - [Category 6](https://en.wikipedia.org/wiki/6_Nimmt!)
     - [Environments](https://en.wikipedia.org/wiki/Environments_(album_series))
 - Maciej
-    - [PyCon South Africa]()
+    - [PyCon South Africa](https://za.pycon.org/)
 
 ### Keep In Touch
 - [IRC](https://botbot.me/freenode/pypy/)
-- [Mailing List]()
-- [PyPy consultancy]()
+- [Mailing List](https://mail.python.org/mailman/listinfo/pypy-dev)
+- [PyPy consultancy](http://baroquesoftware.com/)
 
 ### Links
 - [Psyco](http://psyco.sourceforge.net/) (Python JIT)
