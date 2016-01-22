@@ -1,5 +1,5 @@
 Title: Episode 41 - Maciej Fijalkowski on RPython
-Date: 2015-12-17
+Date: 2016-01-11
 Category: Episodes
 Tags: JIT, Interpreters
 url: maciej-fijalkowski-rpython.html
@@ -19,7 +19,7 @@ RPython is a subset of Python that is used for writing high performance interpre
 - I would like to thank everyone who has donated to the show. Your contributions help us make the show sustainable. For details on how to support the show you can visit our site at [pythonpodcast.com](http://pythonpodcast.com)
 - Linode is sponsoring us this week. Check them out at [linode.com/podcastinit](http://linode.com/podcastinit) and get a $20 credit to try out their fast and reliable Linux virtual servers for your next project
 - I would also like to thank Hired, a job marketplace for developers, for sponsoring this episode of Podcast.\_\_init\_\_. Use the link [hired.com/podcastinit](http://hired.com/podcastinit) to double your signing bonus.
-- We are recording today on December 17th, 2015 and your hosts as usual are Tobias Macey and Chris Patti
+- Your hosts as usual are Tobias Macey and Chris Patti
 - Today we are interviewing Maciej Fijalkowski on RPython
 
 <div class="well">
