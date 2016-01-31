@@ -17,14 +17,14 @@ If you are trying to build a web application in Python that can scale to a high 
 - Give us feedback! Leave a review on [iTunes](https://itunes.apple.com/us/podcast/podcast.-init/id981834425?mt=2&uo=6&at=&ct=), [Tweet](https://twitter.com/Podcast__init__) to us, send us an [email](mailto:hosts@podcastinit.com) or leave us a message on [Google+](https://plus.google.com/+Podcastinit-the-python-podcast)
 - We are also running a listener survey to get feedback about the show. You can find it at [bit.do/podcastinit-survey](http://bit.do/podcastinit-survey).
 - I would like to thank everyone who has donated to the show. Your contributions help us make the show sustainable. For details on how to support the show you can visit our site at [pythonpodcast.com](http://pythonpodcast.com)
-- Linode is sponsoring us this week. Check them out at [linode.com/podcastinit](http://linode.com/podcastinit) and get a $20 credit to try out their fast and reliable Linux virtual servers for your next project
+- Linode is sponsoring us this week. Check them out at [linode.com/podcastinit](https://linode.com/podcastinit/?utm_source=podcastinit&utm_medium=podcast&utm_content=20%20dollar&utm_campaign=podcastinit20) and get a $20 credit to try out their fast and reliable Linux virtual servers for your next project
 - I would also like to thank Hired, a job marketplace for developers and designers, for sponsoring this episode of Podcast.\_\_init\_\_. Use the link [hired.com/podcastinit](http://hired.com/podcastinit) to double your signing bonus to $4,000.
 - Your hosts as usual are Tobias Macey and Chris Patti
 - We recently launched a new Discourse forum for the show which you can find at [discourse.pythonpodcast.com](https://discourse.pythonpodcast.com). Join us to discuss the show, the episodes, and ideas for future interviews.
 - Today we are interviewing Ben Darnell about his work on Tornado
 
 <div class="well">
-<a href="http://linode.com/podcastinit"><img src="/images/linode-banner-sponsor-large.png" alt="Linode Sponsor Banner"style="width: 100%;"></img></a><br/>
+<a href="https://linode.com/podcastinit/?utm_source=podcastinit&utm_medium=podcast&utm_content=20%20dollar&utm_campaign=podcastinit20"><img src="/images/linode-banner-sponsor-large.png" alt="Linode Sponsor Banner"style="width: 100%;"></img></a><br/>
 <p>Use the promo code <strong>podcastinit20</strong> to get a $20 credit when you sign up!</p>
 </div>
 

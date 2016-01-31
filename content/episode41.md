@@ -1,4 +1,4 @@
-Title: Episode 41 - Maciej Fijalkowski on RPython
+Title: Episode 41 - RPython with Maciej Fijałkowski
 Date: 2016-01-11
 Category: Episodes
 Tags: JIT, Interpreters
@@ -6,7 +6,7 @@ url: maciej-fijalkowski-rpython.html
 save_as: maciej-fijalkowski-rpython.html
 
 ### Summary
-RPython is a subset of Python that is used for writing high performance interpreters for dynamic languages. The most well-known product of this tooling is the PyPy interpreter. In this episode we had the pleasure of speaking with Maciej Fijalkowski about what RPython is, what it isn't, what kinds of projects it has been used for, and what makes it so interesting.
+RPython is a subset of Python that is used for writing high performance interpreters for dynamic languages. The most well-known product of this tooling is the PyPy interpreter. In this episode we had the pleasure of speaking with Maciej Fijałkowski about what RPython is, what it isn't, what kinds of projects it has been used for, and what makes it so interesting.
 
 <iframe id="audio_iframe" src="http://www.podbean.com/media/player/rkszj-5bf87f?from=yiiadmin&skin=103&postId=6027391&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
@@ -17,13 +17,13 @@ RPython is a subset of Python that is used for writing high performance interpre
 - Give us feedback! Leave a review on [iTunes](https://itunes.apple.com/us/podcast/podcast.-init/id981834425?mt=2&uo=6&at=&ct=), [Tweet](https://twitter.com/Podcast__init__) to us, send us an [email](mailto:hosts@podcastinit.com) or leave us a message on [Google+](https://plus.google.com/+Podcastinit-the-python-podcast)
 - Join our community! Visit [discourse.pythonpodcast.com](https://discourse.pythonpodcast.com) for your opportunity to find out about upcoming guests, suggest questions, and propose show ideas.
 - I would like to thank everyone who has donated to the show. Your contributions help us make the show sustainable. For details on how to support the show you can visit our site at [pythonpodcast.com](http://pythonpodcast.com)
-- Linode is sponsoring us this week. Check them out at [linode.com/podcastinit](http://linode.com/podcastinit) and get a $20 credit to try out their fast and reliable Linux virtual servers for your next project
+- Linode is sponsoring us this week. Check them out at [linode.com/podcastinit](https://linode.com/podcastinit/?utm_source=podcastinit&utm_medium=podcast&utm_content=20%20dollar&utm_campaign=podcastinit20) and get a $20 credit to try out their fast and reliable Linux virtual servers for your next project
 - I would also like to thank Hired, a job marketplace for developers, for sponsoring this episode of Podcast.\_\_init\_\_. Use the link [hired.com/podcastinit](http://hired.com/podcastinit) to double your signing bonus.
 - Your hosts as usual are Tobias Macey and Chris Patti
-- Today we are interviewing Maciej Fijalkowski on RPython
+- Today we are interviewing Maciej Fijałkowski on RPython
 
 <div class="well">
-<a href="http://linode.com/podcastinit"><img src="/images/linode-banner-sponsor-large.png" alt="Linode Sponsor Banner"style="width: 100%;"></img></a><br/>
+<a href="https://linode.com/podcastinit/?utm_source=podcastinit&utm_medium=podcast&utm_content=20%20dollar&utm_campaign=podcastinit20"><img src="/images/linode-banner-sponsor-large.png" alt="Linode Sponsor Banner"style="width: 100%;"></img></a><br/>
 <p>Use the promo code <strong>podcastinit20</strong> to get a $20 credit when you sign up!</p>
 </div>
 
@@ -34,7 +34,7 @@ On Hired software engineers & designers can get 5+ interview requests in a week 
 </p>
 </div>
 
-### Interview with Maciej Fijalkowski
+### Interview with Maciej Fijałkowski
 - Introductions
 - How did you get introduced to Python? - Chris
 - What is RPython and how does it differ from CPython? - Tobias
