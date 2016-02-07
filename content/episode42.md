@@ -1,4 +1,4 @@
-Title: Episode 43 - SymPy With Aaron Meurer
+Title: Episode 42 - SymPy With Aaron Meurer
 Date: 2016-01-18
 Category: Episodes
 Tags: Mathematics, Computation
