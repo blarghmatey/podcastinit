@@ -1,5 +1,5 @@
 Title: Episode 45 - Functional Programming with Matthew Rocklin and Alexander Schepanovski
-Date: 2016-02-09
+Date: 2016-02-28
 Category: Episodes
 Tags: Functional Programming
 url: functional-python.html
