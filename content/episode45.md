@@ -1,5 +1,5 @@
 Title: Episode 45 - Cython with Craig Citro and Robert Bradshaw
-Date: 2016-01-28
+Date: 2016-02-18
 Category: Episodes
 Tags: Performance, Compilation
 url: cython-developers.html
@@ -19,7 +19,7 @@ Do you find yourself reaching for a different language when you need some extra 
 - I would like to thank everyone who has donated to the show. Your contributions help us make the show sustainable. For details on how to support the show you can visit our site at [pythonpodcast.com](http://pythonpodcast.com)
 - Linode is sponsoring us this week. Check them out at [linode.com/podcastinit](http://linode.com/podcastinit) and get a $20 credit to try out their fast and reliable Linux virtual servers for your next project
 - I would also like to thank Hired, a job marketplace for developers, for sponsoring this episode of Podcast.\_\_init\_\_. Use the link [hired.com/podcastinit](http://hired.com/podcastinit) to double your signing bonus.
-- Your hosts as usual are Tobias Macey and Chris Patti
+- Your host is Tobias Macey
 - Today we are interviewing Craig Citro and Robert Bradshaw
 
 <div class="well">
@@ -71,6 +71,6 @@ On Hired software engineers & designers can get 5+ interview requests in a week 
 
 ### Links
 - [Sage](http://www.sagemath.org/) (Math)
-- [Pyrex](https://en.wikipedia.org/wiki/Pyrex_(programming_language))
+- [Pyrex](https://en.wikipedia.org/wiki/Pyrex_\(programming_language\))
 
 The intro and outro music is from Requiem for a Fish [The Freak Fandango Orchestra](http://freemusicarchive.org/music/The_Freak_Fandango_Orchestra/)  / [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
