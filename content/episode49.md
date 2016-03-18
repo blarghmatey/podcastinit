@@ -1,4 +1,4 @@
-Title: Episode XX - VPython with Ruth Chabay and Bruce Sherwood
+Title: Episode 49 - VPython with Ruth Chabay and Bruce Sherwood
 Date: 2016-03-19
 Category: Episodes
 Tags: Education, Simulation, Graphics
