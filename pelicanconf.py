@@ -88,6 +88,10 @@ RIGHT_SIDEBAR = """
 <br/>
 <a href="https://itunes.apple.com/us/podcast/podcast.-init/id981834425?mt=2&uo=6&at=&ct=" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.png) no-repeat;width:165px;height:40px;@media only screen{background-image:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg);}"></a>
 <hr/>
+<a href="https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/I7ogju4xv6adasgqz6545jndgsy?t%3DPodcast.__init___-_Python_and_the_people_who_make_it_great">
+<img src="/images/Google_Play_Music_icon.png"/>
+</a>
+<hr/>
 <a href="http://www.stitcher.com/s?fid=64838&refid=stpr"><img src="http://cloudfront.assets.stitcher.com/promo.assets/stitcher-banner-120x90.jpg" width="120" height="90" alt="Listen to Stitcher"></a>
 <hr/>
 <iframe src="http://tunein.com/embed/follow/p726240/" style="width:64px;height:22px;" scrolling="no" frameborder="no"></iframe>
@@ -125,6 +129,8 @@ CoinWidgetCom.go({
 </script>
 <hr>
 <strong>Use Our Referral Links</strong><br/><br/>
+<div><a href="http://www.kqzyfj.com/fn101r09608OWXUPWYUOQRUQUXWUOQTVPPURVVVPPP" target="_top" onmouseover="window.status='http://www.thriftbooks.com';return true;" onmouseout="window.status=' ';return true;">
+<img src="http://www.lduhtrp.net/6f102fz2rxvGOPMHOQMGIJMIMPOMGILNHHMJNNNHHH" alt="" border="0" /></a></div><br/><br/>
 <div class="alignleft">
 <script type='text/javascript'>
  amzn_assoc_ad_type = 'banner';
@@ -143,7 +149,7 @@ CoinWidgetCom.go({
 </script>
 <script src='//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1'></script>
 </div><br/>
-<a href="https://www.digitalocean.com/?refcode=7f4b4767f85b"><img src="https://www.digitalocean.com/assets/images/logos-badges/horizontal-black-71af2217.png"></img></a><br/><br/>
+<p><a href="https://www.linode.com/?r=d6891b90c94beb4a3ff335003610e71cd62ee9c4"><img src="https://www.linode.com/media/images/logos/standard/light/linode-logo_standard_light_small.png"/></a></p><br/>
 <a href="http://www.oreilly.com/pub/cpc/258"><img src="http://www.oreilly.com/partner_file/ORM_logo_box75_hex.jpg" /></a><br/>
 <hr>
 <strong>Get Some Help!</strong><br/>
