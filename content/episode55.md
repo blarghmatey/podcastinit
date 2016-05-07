@@ -73,9 +73,9 @@ Loved by developers at awesome companies like Heroku, Twilio, Kayak, Instacart, 
 - What is on the roadmap for LibCloud that people should keep an eye out for? - Tobias
 
 ### Keep In Touch
-- [Twitter](anthonypjshaw)
-- [GitHub](tonybalogne)
-- [GitHub](github.com/apache/libcloud)
+- [Twitter](https://twitter.com/anthonypjshaw)
+- [GitHub](https://github.com/tonybalogne)
+- [GitHub](https://github.com/apache/libcloud)
 
 ### Picks
 - Tobias
