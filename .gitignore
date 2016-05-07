@@ -8,3 +8,4 @@ srv.pid
 __pycache__/
 .ropeproject/
 cache/
+node_modules/

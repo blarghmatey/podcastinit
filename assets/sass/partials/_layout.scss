@@ -1,0 +1,42 @@
+.header__container {
+  height: 70px;
+  background: #424242;
+}
+
+.hero__container {
+  height: 500px;
+  background: #CCC;
+}
+
+.about__container {
+  background: #CCC;
+  color: #444;
+  section {
+    @include clearfix;
+    padding: 40px 0;
+  }
+  .author {
+    width: 50%;
+    min-height: 600px;
+    float: left;
+    padding: 0 60px;
+    &:first-child {
+      border-right: 1px solid #666;
+    }
+  }
+  .author__image {
+    margin: 0 auto 20px;
+    width: 200px;
+    height: 200px;
+    border: 1px solid #666;
+    background: #FAFAFA;
+  }
+  .author__title {
+    text-align: center;
+  }
+}
+
+.footer__container {
+  height: 400px;
+  background: #333;
+}
