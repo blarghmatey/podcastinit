@@ -76,5 +76,6 @@ Loved by developers at awesome companies like Heroku, Twilio, Kayak, Instacart, 
 ### Links
 - [Image-SIG](https://mail.python.org/pipermail/image-sig/2010-July/006423.html)
 - [Random (Psychedelic) Art](https://jeremykun.com/2012/01/01/random-psychedelic-art/)
+- [Alex's prepared interview responses](https://github.com/python-pillow/podcast-answers)
 
 The intro and outro music is from Requiem for a Fish [The Freak Fandango Orchestra](http://freemusicarchive.org/music/The_Freak_Fandango_Orchestra/)  / [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
