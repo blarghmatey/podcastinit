@@ -1,4 +1,4 @@
-Title: Episode 62 - Bandit with Eric Brown and Tim Kelsey
+Title: Episode 62 - Bandit with Eric Brown, Travis McPeak, and Tim Kelsey
 Date: 2016-06-19
 Category: Episodes
 Tags: Security, Static Analysis
