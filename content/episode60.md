@@ -14,7 +14,7 @@ As developers, one of the most important tools that we use daily is our version 
 - Hello and welcome to Podcast.\_\_init\_\_, the podcast about Python and the people who make it great.
 - I would like to thank everyone who has donated to the show. Your contributions help us make the show sustainable. For details on how to support the show you can visit our site at [pythonpodcast.com](http://pythonpodcast.com)
 - Linode is sponsoring us this week. Check them out at [linode.com/podcastinit](http://linode.com/podcastinit) and get a $20 credit to try out their fast and reliable Linux virtual servers for your next project
-- We are also sponsored by Sentry this week. Stop hoping your users will report bugs. Sentry's real-time tracking gives you insight into production deployments and information to reproduce and fix crashes. Check them out at [getsentry.com](https://getsentry.com/welcome/)
+- We are also sponsored by Sentry this week. Stop hoping your users will report bugs. Sentry's real-time tracking gives you insight into production deployments and information to reproduce and fix crashes. Check them out at [getsentry.com](https://getsentry.com/welcome/?utm_source=podcastinit&utm_medium=podcast&utm_campaign=sponsored&code=podcastinit) and use the code <b>podcastinit</b> at [signup](https://www.getsentry.com/signup/?code=podcastinit&utm_source=podcastinit&utm_medium=podcast&utm_campaign=sponsored) to get a $50 credit!
 - Visit our site to subscribe to our show, sign up for our newsletter, read the show notes, and get in touch.
 - To help other people find the show you can leave a review on [iTunes](https://itunes.apple.com/us/podcast/podcast.-init/id981834425?mt=2&uo=6&at=&ct=), or [Google Play Music](https://play.google.com/music/m/I7ogju4xv6adasgqz6545jndgsy?t=Podcastinit_-_Python_and_the_people_who_make_it_great), and tell your friends and co-workers
 - Join our community! Visit [discourse.pythonpodcast.com](https://discourse.pythonpodcast.com) for your opportunity to find out about upcoming guests, suggest questions, and propose show ideas.
@@ -27,8 +27,8 @@ As developers, one of the most important tools that we use daily is our version 
 </div>
 
 <div class="well">
-<a href="http://getsentry.com"><img src="/images/sentry-horizontal-black.png" style="background: white;"/></a>
-<p>Stop hoping your users will report bugs. Sentry's real-time tracking gives you insight into production deployments and information to reproduce and fix crashes.</p>
+<a href="https://getsentry.com/welcome/?utm_source=podcastinit&utm_medium=podcast&utm_campaign=sponsored&code=podcastinit"><img src="/images/sentry-horizontal-black.png" style="background: white; margin: auto; display: block; padding: 10px; width: 90%;"/></a><br/>
+<p>Stop hoping your users will report bugs. Sentry's real-time tracking gives you insight into production deployments and information to reproduce and fix crashes. Use the code <b>podcastinit</b> at <a href="https://www.getsentry.com/signup/?code=podcastinit&utm_source=podcastinit&utm_medium=podcast&utm_campaign=sponsored">signup</a> to get a $50 credit!</p>
 </div>
 
 ### Interview with Augie Fackler
