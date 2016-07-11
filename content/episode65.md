@@ -8,7 +8,7 @@ save_as: david-greg-mypy.html
 ### Summary
 As Python developers we are fond of the dynamic nature of the language. Sometimes, though, it can get a bit _too_ dynamic and that's where having some type information would come in handy. Mypy is a project that aims to add that missing level of detail to function and variable definitions so that you don't have to go hunting 5 levels deep in the stack to understand what shape that data structure is supposed to be. This week we spoke with David Fisher and Greg Price about their work on Mypy and its use within Dropbox and the broader community. They explained how it got started, how it works under the covers, and why you should consider adding it to your projects.
 
-<iframe src="https://www.podbean.com/media/player/rzabg-60d559?from=yiiadmin&skin=103&download=0&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<iframe src="https://www.podbean.com/media/player/rzabg-60d559?from=yiiadmin&skin=103&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 ### Brief Introduction
 - Hello and welcome to Podcast.\_\_init\_\_, the podcast about Python and the people who make it great.
