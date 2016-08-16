@@ -8,7 +8,7 @@ url: scott-sanderson-algorithmic-trading.html
 ### Summary
 Because of its easy learning curve and broad extensibility Python has found its way into the realm of algorithmic trading at [Quantopian](https://www.quantopian.com/). In this episode we spoke with Scott Sanderson about what algorithmic trading is, how it differs from high frequency trading, and how they leverage Python for empowering everyone to try their hand at it.
 
-<iframe id="audio_iframe" src="http://www.podbean.com/media/player/whkpx-5b5f7a?from=yiiadmin&skin=103&postId=5988218&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<iframe id="audio_iframe" src="https://www.podbean.com/media/player/whkpx-5b5f7a?from=yiiadmin&skin=103&postId=5988218&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 ### Brief Introduction
 - Hello and welcome to Podcast.\_\_init\_\_, the podcast about Python and the people who make it great.

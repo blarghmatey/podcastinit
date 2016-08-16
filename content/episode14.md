@@ -9,7 +9,7 @@ Tags: Computer Science, Bayesian Statistics, Teaching
 ### Summary
 In this episode we talked to professor and author Allen Downey. We discussed his work as a professor of computer science at Olin College and how he uses Python in the classroom. We also covered some of the numerous books that he has written and how making them open and freely available has yielded some interesting derivative works. Then we moved on to how statistics can be made accessible to people without a heavy math background.
 
-<iframe id="audio_iframe" src="http://www.podbean.com/media/player/q5ps6-57392f?from=wp&skin=103&postId=5716271&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<iframe id="audio_iframe" src="https://www.podbean.com/media/player/q5ps6-57392f?from=wp&skin=103&postId=5716271&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 ### Brief Introduction
 * Date of recording - June 22nd, 2015

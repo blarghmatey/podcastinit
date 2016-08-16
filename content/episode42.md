@@ -8,7 +8,7 @@ save_as: aaron-meurer-sympy.html
 ### Summary
 Looking for an open source alternative to Mathematica or MatLab for solving algebraic equations? Look no further than the excellent SymPy project. It is a well built and easy to use Computer Algebra System (CAS) and in this episode we spoke with the current project maintainer Aaron Meurer about its capabilities and when you might want to use it.
 
-<iframe id="audio_iframe" src="http://www.podbean.com/media/player/x693c-5c36b8?from=yiiadmin&skin=103&postId=6043320&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<iframe id="audio_iframe" src="https://www.podbean.com/media/player/x693c-5c36b8?from=yiiadmin&skin=103&postId=6043320&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 ### Brief Introduction
 - Hello and welcome to Podcast.\_\_init\_\_, the podcast about Python and the people who make it great.

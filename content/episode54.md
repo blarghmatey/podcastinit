@@ -8,7 +8,7 @@ save_as: donald-stufft-pip.html
 ### Summary
 As Python developers we have all used pip to install the different libraries and projects that we need for our work, but have you ever wondered about who works on pip and how the package archive we all know and love is maintained? In this episode we interviewed Donald Stufft who is the primary maintainer of pip and the Python Package Index about how he got involved with the projects, what kind of work is involved, and what is on the roadmap. Give it a listen and then give him a big thank you for all of his hard work!
 
-<iframe id="audio_iframe" src="http://www.podbean.com/media/player/bejq7-5eafc4?from=yiiadmin&skin=103&postId=6205380&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<iframe id="audio_iframe" src="https://www.podbean.com/media/player/bejq7-5eafc4?from=yiiadmin&skin=103&postId=6205380&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 ### Brief Introduction
 - Hello and welcome to Podcast.\_\_init\_\_, the podcast about Python and the people who make it great.

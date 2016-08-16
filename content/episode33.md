@@ -8,7 +8,7 @@ url: maneesha-sane-software-data-carpentry.html
 ### Summary
 The Software and Data Carpentry organizations have a mission of making it easier for scientists and data analysts in academia to replicate and review each others work. In order to achieve this goal they conduct training and workshops that teach modern best practices in software and data engineering, including version control and proper data management. In this episode we had the opportunity to speak with Maneesha Sane, the program coordinator for both organizations, so that we could learn more about how these projects are related and how they approach their mission.
 
-<iframe id="audio_iframe" src="http://www.podbean.com/media/player/sjqfc-5a7dcb?from=yiiadmin&skin=103&postId=5930443&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<iframe id="audio_iframe" src="https://www.podbean.com/media/player/sjqfc-5a7dcb?from=yiiadmin&skin=103&postId=5930443&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 ### Brief Introduction
 - Hello and welcome to Podcast.\_\_init\_\_, the podcast about Python and the people who make it great.

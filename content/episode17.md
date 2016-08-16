@@ -8,7 +8,7 @@ Tags: software, professional, ethics
 ### Summary
 In this episode we had a nice long conversation with Glyph Lefkowitz of Twisted fame about his views on the need for an established code of ethics in the software industry. Some of the main points that were covered include the need for maintaining a proper scope in the ongoing discussion, the responsibilities of individuals and corporations, and how any such code might compare with those employed by other professions. This is something that every engineer should be thinking about and the material that we cover will give you a good starting point when talking to your compatriots.
 
-<iframe id="audio_iframe" src="http://www.podbean.com/media/player/3vzki-57c53b?from=wp&skin=103&postId=5752123&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<iframe id="audio_iframe" src="https://www.podbean.com/media/player/3vzki-57c53b?from=wp&skin=103&postId=5752123&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 ### Brief Introduction
 - Welcome to Podcast.\_\_init\_\_ the podcast about Python and the people who make it great

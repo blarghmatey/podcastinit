@@ -8,7 +8,7 @@ save_as: david-maciver-hypothesis.html
 ### Summary
 Writing tests is important for the stability of our projects and our confidence when making changes. One issue that we must all contend with when crafting these tests is whether or not we are properly exercising all of the edge cases. Property based testing is a method that attempts to find all of those edge cases by generating randomized inputs to your functions until a failing combination is found. This approach has been popularized by libraries such as Quickcheck in Haskell, but now Python has an offering in this space in the form of Hypothesis. This week, the creator and maintainer of Hypothesis, David MacIver, joins us to tell us about his work on it and how it works to improve our confidence in the stability of our code.
 
-<iframe id="audio_iframe" src="http://www.podbean.com/media/player/8ib9d-5e4371?from=yiiadmin&skin=103&postId=6177649&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<iframe id="audio_iframe" src="https://www.podbean.com/media/player/8ib9d-5e4371?from=yiiadmin&skin=103&postId=6177649&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 ### Brief Introduction
 - Hello and welcome to Podcast.\_\_init\_\_, the podcast about Python and the people who make it great.

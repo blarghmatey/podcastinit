@@ -3,7 +3,7 @@ Date: 2015-06-10 20:00
 Category: Episodes
 Tags: Community, Diversity
 
-<iframe id="audio_iframe" src="http://www.podbean.com/media/player/5h63q-56c5cd?from=wp&skin=103&postId=5686733&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<iframe id="audio_iframe" src="https://www.podbean.com/media/player/5h63q-56c5cd?from=wp&skin=103&postId=5686733&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 ### Brief Introduction
 *  Date of recording - Jun-10th, 2015

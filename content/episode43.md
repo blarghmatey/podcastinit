@@ -8,7 +8,7 @@ save_as: wsgi-2.html
 ### Summary
 The Web Server Gateway Interface, or WSGI for short, is a long-standing pillar of the Python ecosystem. It has enabled a vast number of web frameworks to proliferate by not having to worry about how exactly to interact with the HTTP protocol and focus instead on building a library that is robust, extensible, and easy to use. With recent evolutions to how we interact with the web, it appears that WSGI may be in need of an update and that is what our guests on this episode came to discuss. Cory Benfield is leading an effort to determine what if any modifications should be made to the WSGI standard or if it is time to retire it in favor of something new. Andrew Godwin has been hard at work building the Channels framework for Django to allow for interoperability with websockets. They bring their unique perspectives to bear on how and why we may want to consider bringing WSGI into the current state of the web.
 
-<iframe id="audio_iframe" src="http://www.podbean.com/media/player/25wxt-5c6f25?from=yiiadmin&skin=103&postId=6057765&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<iframe id="audio_iframe" src="https://www.podbean.com/media/player/25wxt-5c6f25?from=yiiadmin&skin=103&postId=6057765&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 ### Brief Introduction
 - Hello and welcome to Podcast.\_\_init\_\_, the podcast about Python and the people who make it great.

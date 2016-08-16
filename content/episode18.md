@@ -8,7 +8,7 @@ save_as: liza-avramenko-checkio.html
 ### Summary
 In this episode we talked to Liza Avramenko, the CEO of CheckIO, about Empire of Code and CheckIO. We discussed what differentiates them from each other and from the other coding games that have been spreading on the internet. One of the main differentiators for CheckIO in particular is the strong focus on community. The bottom line is that if you use Python then you should check out CheckIO and Empire of Code as a great way to practice your skills.
 
-<iframe id="audio_iframe" src="http://www.podbean.com/media/player/k847e-57da50?from=wp&skin=103&postId=5757520&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<iframe id="audio_iframe" src="https://www.podbean.com/media/player/k847e-57da50?from=wp&skin=103&postId=5757520&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 ### Brief Intro
 - Hello and welcome to Podcast.\_\_init\_\_, the podcast about Python and the people who make it great.

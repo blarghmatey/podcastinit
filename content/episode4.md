@@ -3,7 +3,7 @@ Date: 2015-04-28
 Category: Episodes
 Tags: Continuum Analytics, PyData, NumFocus, Data Science, Scientific Python, Data Analytics, NumPy, SciPy, Data Visualization
 
-<iframe id="audio_iframe" src="http://www.podbean.com/media/player/628gx-55c078?skin=103" width="100%" height="100" frameborder="0" scrolling="no"></iframe>
+<iframe id="audio_iframe" src="https://www.podbean.com/media/player/628gx-55c078?skin=103" width="100%" height="100" frameborder="0" scrolling="no"></iframe>
 
 ###Brief Introduction
 *  Date of recording - Apr 28th 2015

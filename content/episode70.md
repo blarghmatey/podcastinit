@@ -1,5 +1,5 @@
 Title: Episode 70 - Python on Windows with Steve Dower
-Date: 2016-08-02
+Date: 2016-08-13
 Category: Episodes
 Tags: Windows, Microsoft
 url: steve-dower-python-on-windows.html
