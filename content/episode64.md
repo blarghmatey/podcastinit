@@ -31,7 +31,7 @@ When you have good tools it makes the work you do even more enjoyable. Russell K
 <p>Stop hoping your users will report bugs. Sentry's real-time tracking gives you insight into production deployments and information to reproduce and fix crashes. Use the code <b>podcastinit</b> at <a href="https://www.getsentry.com/signup/?code=podcastinit&utm_source=podcastinit&utm_medium=podcast&utm_campaign=sponsored">signup</a> to get a $50 credit!</p>
 </div>
 
-### Interview with Firstname Lastname
+### Interview with Russell Keith-Magee
 - Introductions
 - How did you get introduced to Python? - Chris
 - What is the BeeWare project and what goals do you have for it? - Tobias
