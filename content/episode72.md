@@ -71,25 +71,3 @@ On Hired software engineers & designers can get 5+ interview requests in a week 
 - [PyOhio async talk](https://www.youtube.com/watch?v=E-1Y4kSsAFc)
 
 The intro and outro music is from Requiem for a Fish [The Freak Fandango Orchestra](http://freemusicarchive.org/music/The_Freak_Fandango_Orchestra/)  / [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
-
-
-- We are also sponsored by Sentry this week. Stop hoping your users will report bugs. Sentry's real-time tracking gives you insight into production deployments and information to reproduce and fix crashes. Check them out at [getsentry.com](https://getsentry.com/welcome/?utm_source=podcastinit&utm_medium=podcast&utm_campaign=sponsored&code=podcastinit) and use the code <b>podcastinit</b> at [signup](https://www.getsentry.com/signup/?code=podcastinit&utm_source=podcastinit&utm_medium=podcast&utm_campaign=sponsored) to get a $50 credit!
-- Hired has also returned as a sponsor this week. If you're looking for a job as a developer or designer then Hired will bring the opportunities to you. Sign up at [hired.com/podcastinit](https://hired.com/?utm_content=shownotes-4k&utm_medium=podcast&utm_source=podcastinit) to double your signing bonus.
-
-<div class="well">
-<a href="http://linode.com/podcastinit"><img src="/images/linode-banner-sponsor-large.png" alt="Linode Sponsor Banner" style="width: 100%;"></img></a><br/>
-<p>Use the promo code <strong>podcastinit20</strong> to get a $20 credit when you sign up!</p>
-</div>
-
-<div class="well">
-<a href="https://getsentry.com/welcome/?utm_source=podcastinit&utm_medium=podcast&utm_campaign=sponsored&code=podcastinit"><img src="/images/sentry-horizontal-black.png" style="background: white; margin: auto; display: block; padding: 10px; width: 90%;"/></a><br/>
-<p>Stop hoping your users will report bugs. Sentry's real-time tracking gives you insight into production deployments and information to reproduce and fix crashes. Use the code <b>podcastinit</b> at <a href="https://www.getsentry.com/signup/?code=podcastinit&utm_source=podcastinit&utm_medium=podcast&utm_campaign=sponsored">signup</a> to get a $50 credit!</p>
-</div>
-
-
-<div class="well">
-<a href="https://hired.com/?utm_content=shownotes-4k&utm_medium=podcast&utm_source=podcastinit"><img src="/images/hired-logo-dark-padding.png" alt="Hired Logo" style="float: left; width: 20%; margin-right: 20px;"></a>
-<p>
-On Hired software engineers & designers can get 5+ interview requests in a week and each offer has salary and equity upfront. With full time and contract opportunities available, users can view the offers and accept or reject them before talking to any company. Work with over 2,500 companies from startups to large public companies hailing from 12 major tech hubs in North America and Europe.  Hired is totally free for users and If you get a job you’ll get a $2,000 “thank you” bonus. If you use our <a href="https://hired.com/?utm_content=shownotes-4k&utm_medium=podcast&utm_source=podcastinit">special link</a> to signup, then that bonus will double to $4,000 when you accept a job. If you’re not looking for a job but know someone who is, you can refer them to Hired and get a $1,337 bonus when they accept a job.
-</p>
-</div>
