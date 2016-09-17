@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Tobias Macey and Chris Patti'
+AUTHOR = 'Tobias Macey'
 SITENAME = 'Podcast.__init__'
 SITEURL = ''
 

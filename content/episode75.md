@@ -1,26 +1,27 @@
-Title: Episode 74 - Python and Open Source at Zalando
-Date: 2016-09-10
+Title: Episode 74 - Sandstorm.io with Asheesh Laroia
+Date: 2016-09-17
 Category: Episodes
-Tags: Open Source, Business
-url: python-at-zalando.html
-save_as: python-at-zalando.html
+Tags: User Experience, Security, Consumer Producs
+url: asheesh-laroia-sandstorm.html
+save_as: asheesh-laroia-sandstorm.html
 
 ### Summary
-Open source has proven its value in many ways over the years. In many companies that value is purely in terms of consuming available projects and platforms. In this episode Zalando describes their recent move to creating and releasing a number of their internal projects as open source and how that has benefited their business. We also discussed how they are leveraging Python and a couple of the libraries that they have published.
+Sandstorm.io is an innovative platform that aims to make self-hosting applications easier and more maintainable for the average individual. This week we spoke with Asheesh Laroia about why running your own services is desirable, how they have made security a first priority, how Sandstorm is architected, and what the installation process looks like.
 
-<iframe src="https://www.podbean.com/media/player/9gcuy-6289bd?from=yiiadmin&skin=103&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<iframe src="https://www.podbean.com/media/player/2tfuv-62bb9a?from=yiiadmin&skin=103&download=1&share=1&fonts=Helvetica&auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 ### Brief Introduction
 - Hello and welcome to Podcast.\_\_init\_\_, the podcast about Python and the people who make it great.
 - I would like to thank everyone who has donated to the show. Your contributions help us make the show sustainable. For details on how to support the show you can visit our site at [pythonpodcast.com](http://pythonpodcast.com)
 - Linode is sponsoring us this week. Check them out at [linode.com/podcastinit](http://linode.com/podcastinit) and get a $20 credit to try out their fast and reliable Linux virtual servers for your next project
-- Rollbar is also sponsoring us this week. Rollbar is a service for tracking and aggregating your application errors so that you can find and fix the bugs in your application before your users notice they exist. Use the link [rollbar.com/podcastinit](https://rollbar.com/podcastinit) to get 90 days and 300,000 errors for free on their bootstrap plan.
+- We are also sponsored by Rollbar. Rollbar is a service for tracking and aggregating your application errors so that you can find and fix the bugs in your application before your users notice they exist. Use the link [rollbar.com/podcastinit](https://rollbar.com/podcastinit) to get 90 days and 300,000 errors for free on their bootstrap plan.
 - Hired has also returned as a sponsor this week. If you're looking for a job as a developer or designer then Hired will bring the opportunities to you. Sign up at [hired.com/podcastinit](https://hired.com/?utm_content=shownotes-4k&utm_medium=podcast&utm_source=podcastinit) to double your signing bonus.
 - Visit our site to subscribe to our show, sign up for our newsletter, read the show notes, and get in touch.
 - To help other people find the show you can leave a review on [iTunes](https://itunes.apple.com/us/podcast/podcast.-init/id981834425?mt=2&uo=6&at=&ct=), or [Google Play Music](https://play.google.com/music/m/I7ogju4xv6adasgqz6545jndgsy?t=Podcastinit_-_Python_and_the_people_who_make_it_great), and tell your friends and co-workers
 - Join our community! Visit [discourse.pythonpodcast.com](https://discourse.pythonpodcast.com) for your opportunity to find out about upcoming guests, suggest questions, and propose show ideas.
+- I would also like to mention that the organizers of PyCon Zimbabwe are looking to the global Python community for help in supporting their event. If you would like to donate the [link](https://onepercentclub.com/en/projects/pyzim/plan) will be in the show notes.
 - Your hosts as usual are Tobias Macey and Chris Patti
-- Today we're interviewing Jie Bao and João Santos about their use of Python at Zalando
+- Today we're interviewing Asheesh Laroia about Sandstorm.io, a project that is trying to make self-hosted applications easy and secure for everyone.
 
 <div class="well">
 <a href="http://linode.com/podcastinit"><img src="/images/linode-banner-sponsor-large.png" alt="Linode Sponsor Banner" style="width: 100%;"></img></a><br/>
@@ -54,39 +55,44 @@ On Hired software engineers & designers can get 5+ interview requests in a week 
 </p>
 </div>
 
-### Interview with Zalando
+### Interview with Asheesh Laroia
 - Introductions
 - How did you get introduced to Python? - Tobias
-- Can you start by telling us a bit about what Zalando does and some of the technologies that you use? - Tobias
-- What role does Python play in your environment? - Tobias
-- Is the use of Python for a particular project governed by any particular operational guidelines or is it largely a matter of developer choice? - Tobias
-- Given that you have such a variety of platforms to support, how do you architect your systems to keep them easy to maintain and reason about? - Tobias
-- One of the projects that you have open sourced is Connexion. Can you explain a bit about what that is and what it is used for at Zalando? - Tobias
-- What made you choose to standardize on Swagger/OpenAPI vs RAML or some of the other API standards? - Tobias
-- Did Connexion start its life as open source or was it extracted from another project? - Tobias
-- ExpAn is another one of your projects that is written in Python. What do you use that for? - Tobias
-- Can you describe the internal implementation of ExpAn and what it takes to get it set up? - Tobias
-- Given the potential complexity of and the need for statistical significance in the data for proper A/B testing, how did you design ExpAn to satisfy those requirements? - Tobias
-- Given the laws in Germany around digital privacy, were there any special considerations that needed to be made in the collection strategy for the data that gets used in ExpAn? - Tobias
+- Can you start by telling everyone about the Sandstorm project and how you got involved with it? - Tobias
+- What are some of the reasons that an individual would want to self-host their own applications rather than using comparable services available through third parties? - Tobias
+- How does Sandstorm try to make the experience of hosting these various applications simple and enjoyable for the broadest variety of people? - Tobias
+- What does the system architecture for Sandstorm look like? - Tobias
+- I notice that Sandstorm requires a very recent Linux kernel version. What motivated that choice and how does it affect adoption? - Chris
+- One of the notable aspects of Sandstorm is the security model that it uses. Can you explain the capability-based authorization model and how it enables Sandstorm to ensure privacy for your users? - Tobias
+- What are some of the most difficult challenges facing you in terms of software architecture and design? - Tobias
+- What is involved in setting up your own server to run Sandstorm and what kinds of resources are required for different use cases? - Tobias
+- You have a number of different applications available for users to install. What is involved in making a project compatible with the Sandstorm runtime environment? Are there any limitations in terms of languages or application architecture for people who are targeting your platform? - Tobias
+- How much of Sandstorm is written in Python and what other languages does it use? - Tobias
 
 ### Keep In Touch
-- João
-    - [Twitter](https://twitter.com/joaomcsantoss)
-- Jie
-    - [Twitter](https://twitter.com/jiebao)
-- Laurie
-    - [Twitter](https://twitter.com/LauritaApplez)
+- [Twitter](https://twitter.com/asheeshlaroia)
+- [Blog](http://www.asheesh.org/)
+- [Email](asheesh@sandstorm.io)
 
 ### Picks
 - Tobias
-    - [Hacker's Keyboard](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard&hl=en)
-- Jie
-    - [Shah of Shahs](http://amzn.to/2cmu7zI) by Ryszard Kapuściński
-- João
-    - [Serendipity](https://en.wikipedia.org/wiki/Serendipity)
-- Laurie
-    - [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)
+    - [OpsGenie](https://www.opsgenie.com)
+- Chris
+    - [Viking Godfather Safety Razor](http://amzn.to/2cS8V3x)
+    - [Who Killed Sherlock Holmes?](http://amzn.to/2cTefGA) by Paul Cornell
+    - [Petrus Aged Red](http://petrussourbeer.com/en)
+- Asheesh
+    - [Amtrak](https://www.amtrak.com/home)
+    - [The Master Switch](http://amzn.to/2d97PT7) by Tim Wu
+    - [Rocket Chat](https://rocket.chat/)
 
 ### Links
+- [North Star Post](http://nstarpost.com/)
+- [Contact Otter](https://www.contactotter.com/)
+- [Hacker Slides](https://github.com/jacksingleton/hacker-slides)
+- [Permanote](https://github.com/keybits/permanote)
+- [Radicale](http://radicale.org/)
+- [Media Goblin](http://mediagoblin.org/)
+- [IPython Notebook](http://jupyter.org/)
 
 The intro and outro music is from Requiem for a Fish [The Freak Fandango Orchestra](http://freemusicarchive.org/music/The_Freak_Fandango_Orchestra/)  / [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
