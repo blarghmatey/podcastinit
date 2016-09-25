@@ -1,5 +1,5 @@
 Title: Episode 76 - PsychoPy with Jonathan Peirce
-Date: 2016-09-07
+Date: 2016-09-24
 Category: Episodes
 Tags: Science
 url: jonathan-peirce-psychopy.html
