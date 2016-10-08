@@ -86,7 +86,7 @@ On Hired software engineers & designers can get 5+ interview requests in a week 
 ### Links
 - [Feather](https://blog.rstudio.org/2016/03/29/feather/)
 - [Pyglet](https://bitbucket.org/pyglet/pyglet/wiki/Home)
-- [HDF5](http://hortonworks.com/apache/hdfs/)
+- [HDF5](https://support.hdfgroup.org/HDF5/)
 - [Open Science Framework](https://osf.io/)
 
 The intro and outro music is from Requiem for a Fish [The Freak Fandango Orchestra](http://freemusicarchive.org/music/The_Freak_Fandango_Orchestra/) / [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
