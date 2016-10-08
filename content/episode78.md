@@ -1,4 +1,4 @@
-Title: Episode 78 - Firstname Lastname on Topic
+Title: Episode 78 - Lorena Mesa
 Date: 2016-10-08
 Category: Episodes
 Tags: People
