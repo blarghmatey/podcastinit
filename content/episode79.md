@@ -70,8 +70,9 @@ Loved by developers at awesome companies like Heroku, Twilio, Kayak, Instacart, 
 
 ### Links
 - [Functional Geekery Episode 65 - Morten Kromberg](https://www.functionalgeekery.com/episode-65-morten-kromberg/) talks about APL
-- [K Lars Lohn's Portfolio](http://www.twobraids.com/portfolio)
+- [K Lars Lohn's Portfolio](http://www.twobraids.com/search/label/Portfolio)
 - [The Well Tempered API](https://www.youtube.com/watch?v=9koJOCL8Bms)
 - [Temple Grandin](http://www.templegrandin.com/)
+- [Cooperative Multitasking](https://www.youtube.com/watch?v=GHyh-UKAPxQ&feature=youtu.be)
 
 The intro and outro music is from Requiem for a Fish [The Freak Fandango Orchestra](http://freemusicarchive.org/music/The_Freak_Fandango_Orchestra/)  / [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
